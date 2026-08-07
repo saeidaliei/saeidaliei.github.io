@@ -1,0 +1,23 @@
+.logo {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  text-decoration: none;
+  font-weight: bold;
+
+  img {
+    height: 44px;
+  }
+
+  &__mark {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 5px;
+
+    @include greater-icon(8px);
+  }
+
+  &__text {
+    font-size: 1.125rem;
+  }
+}
