@@ -2,6 +2,18 @@
 title: "Consciousness, Computability, Decidability, and Evolvability: A Weaker Problem Worth Attacking"
 date: 2026-08-15
 author: Saeid Aliei
+description: "
+Gödel's incompleteness theorems show that any sufficiently expressive,
+consistent formal system \$F\$ contains a true statement \$G\$ it cannot prove
+from its own axioms — informally,
+
+$$
+G \leftrightarrow \neg \mathrm{Provable}_F(G).
+$$
+
+It's tempting to reach for an analogy: what if consciousness is a real
+physical phenomenon whose complete truth can't be derived from whatever
+formal or mathematical framework we use to describe physical reality?"
 ---
 ## 1. The starting intuition, and why it's too strong as stated
 

@@ -1,5 +1,5 @@
 ---
-title: "Terrarium: A Laboratory for the Evolvability of Cognitive Proxies"
+title: "Terrarium: A Lab for the Evolvability of Cognitive Proxies"
 date: 2026-08-15
 author: Saeid Aliei
 ---
