@@ -112,7 +112,7 @@ The algebra contains the possible operations; the state specifies the current co
 
 This distinction is important because the operations need not commute.
 
-Suppose $A$ represents attending to one concept and $B$ represents applying some contextual inference. There is no general reason for
+Suppose \$A\$ represents attending to one concept and \$B\$ represents applying some contextual inference. There is no general reason for
 
 $$
 AB=BA.
@@ -315,6 +315,9 @@ Tomita–Takesaki theory produces a modular operator \$\Delta_\omega\$ and the m
 $$
 \boxed{
 \sigma_t^\omega(A)
+
+=
+
 \Delta_\omega^{it}
 A
 \Delta_\omega^{-it}
@@ -372,12 +375,15 @@ The hypothesis predicts that it should.
 
 ## 5. KMS equilibrium and cognitive dynamics
 
-The modular flow is intimately related to the KMS condition. In the normalized convention $\beta=1$,
+The modular flow is intimately related to the KMS condition. In the normalized convention \$\beta=1\$,
 
 $$
 \omega!\left(
 \sigma_t^\omega(A)B
 \right)
+
+=
+
 \omega!\left(
 B\sigma_{t+i}^\omega(A)
 \right).
@@ -405,6 +411,9 @@ This suggests a measurable quantity:
 
 $$
 \mathcal L_{\rm KMS}
+
+\sim
+
 \text{KMS violation}
 $$
 
@@ -450,8 +459,10 @@ Connes' distance formula is
 
 $$
 d(\omega,\varphi)
-\sup
-\left{
+
+=
+
+\text{sup}\left{
 |\omega(A)-\varphi(A)|
 :
 |[D,A]|\leq1
@@ -638,7 +649,7 @@ $$
 \rho
 \rightarrow
 \frac{M\rho M^\dagger}
-{\operatorname{Tr}(M\rho M^\dagger)}.
+{\operatorname{Tr}(M\rho M^\dagger)}
 $$
 
 The problem is not that the second equation is mathematically mysterious.
@@ -657,11 +668,14 @@ Write instead
 
 $$
 \mathcal A_{\rm total}
+
+=
+
 \mathcal A_{\rm system}
 \otimes
 \mathcal A_{\rm apparatus}
 \otimes
-\mathcal A_{\rm observer}.
+\mathcal A_{\rm observer}
 $$
 
 The measurement is an interaction inside the larger system.
@@ -724,7 +738,7 @@ $$
 
 be a self-modeling operation.
 
-Then applying \$R\$ changes the state on which subsequent applications of $R$ operate.
+Then applying \$R\$ changes the state on which subsequent applications of \$R\$ operate.
 
 There is no final external vantage point.
 
@@ -816,10 +830,13 @@ It can correspond to a stable structure of the pair.
 
 This is particularly interesting in von Neumann algebra theory.
 
-For a Type III algebra $\mathcal M$ with a modular action \$\sigma^\phi\$, one can form the crossed product
+For a Type III algebra \$\mathcal M\$ with a modular action \$\sigma^\phi\$, one can form the crossed product
 
 $$
 \mathcal N
+
+=
+
 \mathcal M\rtimes_{\sigma^\phi}\mathbb R.
 $$
 
@@ -927,6 +944,9 @@ Then internal temporal evolution can be defined by
 
 $$
 \sigma_t^\rho(A)
+
+=
+
 \rho^{it}A\rho^{-it}
 $$
 
@@ -942,6 +962,9 @@ Distance can be computed through
 
 $$
 d(\omega,\varphi)
+
+=
+
 \sup_{|[D,A]|\leq1}
 |\omega(A)-\varphi(A)|.
 $$
@@ -1260,9 +1283,9 @@ Then propose:
 $$
 \boxed{
 \text{self-reference}
-;\Rightarrow;
+\Rightarrow
 \text{order-sensitive cognitive operations}
-;\Rightarrow;
+\Rightarrow
 [\mathcal A,\mathcal A]\neq0
 }
 $$
@@ -1272,7 +1295,7 @@ and therefore
 $$
 \boxed{
 (\mathcal A,\omega)
-;\Rightarrow;
+\Rightarrow
 \text{state-dependent representation, geometry, and intrinsic flow}.
 }
 $$
