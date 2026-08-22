@@ -7,7 +7,7 @@ author: Saeid
 There is a simple mathematical idea, **non-commutativity**, with consequences that are easy to underestimate:
 
 $$
-AB\neq BA.
+AB\neq BA
 $$
 
 The order of operations, in some cases, matter.
