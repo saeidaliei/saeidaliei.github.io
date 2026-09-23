@@ -416,8 +416,7 @@ $$
 define normalized outcome entropy
 
 $$
-H_{\rm outcome}
-=
+H_{\rm outcome} =
 -\frac{\sum_i p_i\ln p_i}{\ln K}.
 $$
 
@@ -452,8 +451,7 @@ So we need two axes.
 I define a configurable civilizational disorder index
 
 $$
-E_{\rm civ}
-=
+E_{\rm civ} =
 w_1(1-W)
 +w_2(1-W_{\rm powerless})
 +w_3(1-D)
