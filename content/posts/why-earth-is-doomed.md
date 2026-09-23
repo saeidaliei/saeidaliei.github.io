@@ -1,5 +1,5 @@
 ---
-title: "why earth is doomed?"
+title: "Why Earth is Doomed?"
 date: 2026-09-23
 author: "Saeid"
 ----------
