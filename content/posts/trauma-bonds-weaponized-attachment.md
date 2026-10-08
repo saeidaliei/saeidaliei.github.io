@@ -9,7 +9,7 @@ There are even darker acts that imagining it, is simply impossible,
 and of course, a lot of it hasn't even gotten a sentence in the history of human beings. 
 
 Nontheless here I have put verbatim an excellent article by Mags Lesiak on 
-*[Weaponized Attachment](https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment)*, 
+*[Weaponised Attachment](https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment)*, 
 appearing on Psychology Today:
 
 Weaponised attachment (Lesiak & Gelsthorpe, 2025) refers to a coercive socio‑psychological mechanism through 
