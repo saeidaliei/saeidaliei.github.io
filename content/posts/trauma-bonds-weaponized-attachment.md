@@ -1,16 +1,16 @@
 ---
-title: "There is Trauma Bond and Then There is Weaponized Attachment."
+title: "There is Trauma Bond and Then There is Weaponised Attachment."
 date: 2026-10-05
 author: Saeid
 ---
-There is a lot of darkness in the world and even darker people. 
-History is full of unspeakable acts that humans have done to one another. 
+There is a lot of darkness in the world. History is full of unspeakable 
+acts that humans have done to one another. 
 There are even darker acts that imagining it, is simply impossible, 
-and of course, a lot of it doesn't even get a sentence in the history of human beings. 
+and of course, a lot of it hasn't even gotten a sentence in the history of human beings. 
 
-Nontheless here I have put verbatim an excellent article for 
+Nontheless here I have put verbatim an excellent article by Mags Lesiak on 
 *[Weaponized Attachment](https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment)*, 
-a work by Mags Lesiak, appearing on Psychology Today:
+appearing on Psychology Today:
 
 Weaponised attachment (Lesiak & Gelsthorpe, 2025) refers to a coercive socio‑psychological mechanism through 
 which affective bonds are constructed, destabilised, and instrumentalised to sustain domination even in 
