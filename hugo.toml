@@ -1,6 +1,6 @@
 baseurl = "https://saeidaliei.github.io"
 theme = "himin"
-pagination.pagerSize = 5
+pagination.pagerSize = 10
 
 [params]
   contentTypeName = "posts"
