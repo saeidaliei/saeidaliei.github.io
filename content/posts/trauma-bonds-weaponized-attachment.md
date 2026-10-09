@@ -1,5 +1,5 @@
 ---
-title: "There is Trauma Bond and Then There is Weaponised Attachment."
+title: "There is Trauma Bond and Then There is Weaponized Attachment."
 date: 2026-10-05
 author: Saeid
 ---
