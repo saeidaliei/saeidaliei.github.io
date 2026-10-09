@@ -6,9 +6,12 @@ author: Saeid
 There is a lot of darkness in the world. History is full of unspeakable 
 acts that humans have done to one another. 
 There are even darker acts that imagining it, is simply impossible, 
-and of course, a lot of it hasn't even gotten a sentence in the history of human beings. 
+and of course, a lot of it hasn't even gotten a sentence in history. 
 
-Nontheless here I have put verbatim an excellent article by Mags Lesiak on 
+There is a kind of strong bond, arguably the strongest form there is, 
+called *[Traumatic Bonding](https://en.wikipedia.org/wiki/Traumatic_bonding)*, 
+which deserves its own article, but there is also a concept called **Weaponized Attachment**. 
+Here I have put verbatim an excellent article by [Mags Lesiak](https://www.csap.cam.ac.uk/network/mags-lesiak/) on 
 *[Weaponised Attachment](https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment)*, 
 appearing on Psychology Today:
 
@@ -62,4 +65,4 @@ mislocating the problem in the victim while allowing domination to pass as love.
 **Note:** This article was a verbatim copy of the article appearing on 
 [Psychology Today](https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment).   
 **Title:** *The Danger of Weaponized Attachment: Professionals need to be aware that abusers may use affection, not fear, to entrap.* 
-Written by Mags Lesiak, which itself is based on a [paper](https://journals.sagepub.com/doi/10.1177/10778012251379423) done by her team.
+Written by Mags Lesiak, which is based on a [paper](https://journals.sagepub.com/doi/10.1177/10778012251379423) done by her team.
