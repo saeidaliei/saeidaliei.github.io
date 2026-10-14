@@ -1,5 +1,5 @@
 ---
-title: "The Strainge Attractor"
+title: "The Strange Attractor"
 date: 2026-10-14
 ---
 Consciousness is the only thing you know directly and cannot explain objectively.
