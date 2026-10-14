@@ -2,8 +2,6 @@
 title: "The Strainge Attractor"
 date: 2026-10-14
 ---
-# The Strange Attractor
-
 Consciousness is the only thing you know directly and cannot explain objectively.
 
 You can map every neural correlate. Trace every synaptic firing. Build a functional model that predicts behavior with high accuracy. 
