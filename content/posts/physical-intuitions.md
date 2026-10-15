@@ -1,5 +1,5 @@
 ---
-title: "Physical Intuition: Something that still hasn't been *Leaned* away."
+title: "Physical Intuition: Something that still hasn't been Leaned away."
 date: 2026-08-16
 author: Saeid
 ---
