@@ -91,19 +91,19 @@ There was no obituary. His theory was buried in thousands of pages in a bayou ap
 
 He had quietly amassed a fortune. His estate left roughly $40 million to the Nature Conservancy.
 
-## Why This Happens
+## But Why This Happens
 
-There are five structural reasons this problem is a career hazard.
+There are structural reasons why this problem is so aluring, if it's not fate. then it probably is:
 
-1. **Self-reference.** You can't get outside consciousness to study it. Any theory of mind is produced by a mind.
+- **Self-reference.** You can't get outside consciousness to study it. Any theory of mind is produced by a mind.
 
-2. **The explanatory gap.** Neural correlates don't explain felt experience.
+- **The explanatory gap.** Neural correlates don't explain felt experience.
 
-3. **Quantum measurement.** The observer reappears in physics, tempting people to fuse the two problems. This usually goes badly.
+- **Quantum measurement.** The observer reappears in physics, tempting people to fuse the two problems. This usually goes badly.
 
-4. **Personal stakes.** Free will, meaning, death, the self. Not a neutral puzzle.
+- **Personal stakes.** Free will, meaning, death, the self. Not a neutral puzzle.
 
-5. **No disciplinary home.** Neuroscientists call it philosophy. Philosophers call it neuroscience. Physicists who enter often lack the tools and drift fringe.
+- **No disciplinary home.** Neuroscientists call it philosophy. Philosophers call it neuroscience. Physicists who enter often lack the tools and drift fringe.
 
 ## The Lineage
 
