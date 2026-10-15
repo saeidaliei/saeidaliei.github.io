@@ -1,6 +1,7 @@
 ---
-title: "The Strange Attractor"
+title: "The Strange Attractor: Case of Peter Putnam"
 date: 2026-10-14
+author: "Saeid"
 ---
 Consciousness is the only thing you know directly and cannot explain objectively.
 
