@@ -10,7 +10,8 @@ and of course, a lot of it hasn't even gotten a sentence in history.
 
 There is a kind of strong bond, arguably the strongest form there is, 
 called *[Traumatic Bonding](https://en.wikipedia.org/wiki/Traumatic_bonding)*, 
-which deserves its own article, but there is also a concept called **Weaponized Attachment**. 
+which deserves its own article (the Wikipedia article is an excellent one at this topic), 
+but there is also a concept called **Weaponized Attachment**. 
 Here I have put verbatim an excellent article by [Mags Lesiak](https://www.csap.cam.ac.uk/network/mags-lesiak/) on 
 *[Weaponised Attachment](https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment)*, 
 appearing on Psychology Today:
