@@ -1,66 +1,33 @@
 ---
 title: "Why Earth is Doomed?"
 date: 2026-09-23
-author: "Saeid"
-----------
-
-There is a simple reason I think the question “will AGI destroy humanity?” is slightly mis-specified.
-
-The question assumes that the relevant event is destruction.
-
-It may not be.
-
-The more interesting possibility is that the current political and economic equilibrium of Earth is simply not stable once there exist cognitive systems that are much more capable than the institutions containing them.
-
-That is a different claim.
-
-It does not say that AGI necessarily kills everyone.
-
-It says that the space of stable civilizations may change.
-
-And once that happens, the civilization we currently call Earth may be doomed even if almost everyone survives.
-
-The simulator I have been building is an attempt to make that intuition concrete.
-
-It is not a forecast.
-
-It is a controllable synthetic world in which I can ask what happens when I vary compute, capability, consciousness, political power, institutional control, economic inequality, rights, replication, interstellar expansion, and the relationships between independently conscious AGIs.
-
-The interesting part is not that the simulator produces “doom” scenarios.
-
-Any simulator can be made to do that.
-
-The interesting part is that the same underlying world can produce radically different trajectories from relatively small changes in the parameters controlling power and institutions.
-
-That is where the problem starts.
-
+author: Saeid
 ---
 
-## 1. The wrong question
+There is a simple reason I think the question “will AGI destroy humanity?” is slightly mis-specified. 
+It assumes that the relevant event is destruction, and it may not be. 
+The more interesting possibility is that the current political and economic equilibrium of Earth 
+is not stable once there exist cognitive systems much more capable than the institutions containing them.
 
-The common AGI question is approximately
+That is a different claim. It does not say that AGI necessarily kills everyone. 
+It says that the space of stable civilizations may change, 
+and that the civilization we currently call Earth may be doomed even if almost everyone survives.
+
+The simulator I have been building is an attempt to make that intuition concrete. It is not a forecast. 
+It is a controllable synthetic world in which I can vary compute, capability, consciousness, political power, 
+institutional control, inequality, rights, replication and expansion into space, and watch what happens. 
+The interesting part is not that it can produce “doom” scenarios, since any simulator can be made to do that. 
+It is that the same world produces radically different trajectories from small changes in the parameters governing power and institutions.
+
+## The wrong question
+
+The common question is roughly
 
 $$
 \text{Does AGI cause extinction?}
 $$
 
-This is too coarse.
-
-A civilization can fail in many ways without extinction.
-
-It can lose political autonomy.
-
-It can become radically unequal.
-
-It can become economically dependent on a small number of cognitive systems.
-
-It can split into sovereign machine polities.
-
-Humans can remain alive but cease to control the direction of civilization.
-
-Conscious digital beings can emerge and be treated as property.
-
-Or something much stranger can happen: humans and machine minds can coexist, merge, reproduce, expand into space, and become something that is no longer meaningfully describable as present-day human civilization.
+This is too coarse. A civilization can fail without extinction: it can lose political autonomy, become radically unequal, depend on a handful of cognitive systems, or split into sovereign machine polities. Humans can remain alive but stop controlling the direction of civilization. Conscious digital beings can emerge and be treated as property. Or humans and machine minds can coexist, merge, expand into space, and become something no longer describable as present-day human civilization.
 
 So I find it more useful to write
 
@@ -70,15 +37,7 @@ $$
 \text{welfare},\text{information},\text{population})
 $$
 
-and ask whether the trajectory
-
-$$
-\mathcal C_t \rightarrow \mathcal C_{t+1}
-$$
-
-remains inside the same qualitative regime.
-
-The question becomes:
+and ask whether the trajectory \$\mathcal C_t \rightarrow \mathcal C_{t+1}\$ remains inside the same qualitative regime. The question becomes
 
 $$
 \boxed{
@@ -86,260 +45,63 @@ $$
 }
 $$
 
-That is much harder to answer.
+which is much harder to answer, and much more interesting.
 
-It is also much more interesting.
+## Capability is not power, and the AGI is not one AGI
 
----
-
-## 2. Capability is not power
-
-One of the changes I made to the simulator was to stop treating “intelligence” as the same thing as “political power”.
-
-They are related.
-
-They are not identical.
-
-An AGI could be extremely capable while having almost no independent compute, no energy, no manufacturing access, no political allies, and no way to act on the physical world.
-
-Another system could be less capable but control a giant compute cluster, financial institutions, communications infrastructure, corporations, and a large political coalition.
-
-Their geopolitical positions are completely different.
-
-I therefore model the effective power of an actor schematically as
+The first change I made to the simulator was to stop treating intelligence as the same thing as political power. 
+An AGI could be extremely capable while having no compute of its own, no energy, no allies and no way to act physically. 
+Another system could be less capable but control a giant cluster, financial infrastructure and a political coalition. 
+Their geopolitical positions are completely different, so I model the effective power of an actor schematically as
 
 $$
-P =
-f(C_{\rm compute},
-C_{\rm cyber},
-C_{\rm economic},
-C_{\rm military},
-C_{\rm political},
-C_{\rm infrastructure},
-C_{\rm social})
+P = f(C_{\rm compute}, C_{\rm cyber}, C_{\rm economic}, C_{\rm military}, C_{\rm political}, C_{\rm infrastructure}, C_{\rm social})
 $$
 
-rather than using intelligence as a single scalar.
+rather than as a single scalar. The same goes for individuals and corporations: a sufficiently powerful actor stops behaving like “one person” 
+and starts behaving like a political entity, so the simulator lets actors cross scales from individual to organization to state-like entity to civilizational actor.
 
-This also changes how individuals need to be represented.
+The second change was to drop the idea of “the AGI”. There is no reason to expect one homogeneous machine intelligence. 
+Instead there are \$A_1,\ldots,A_n\$ with different compute budgets, capability profiles, histories, values and relationships with humanity, 
+and consciousness does not arrive for all of them at the same time. 
+The simulator contains trigger events such as a self-model breakthrough, continuous identity, embodied integration and recursive self-improvement. 
+These are not known mechanisms of consciousness. They are experimental ones, meant to stop hiding the assumption inside a single Bernoulli variable.
 
-A sufficiently powerful human should not necessarily be modeled as “one person”.
+This connects to a distinction I have explored elsewhere, between *having a property* and *being able to recognize it from the outside*; see 
+[Consciousness, Computability, Decidability, and Evolvability](https://saeidaliei.github.io/posts/consciousness-computability-decidability-evolvability) 
+and [Terrarium](https://saeidaliei.github.io/posts/terrarium-evolvability-lab).
 
-A sufficiently powerful individual may function more like a political entity.
+## Then consciousness becomes political
 
-The same is true of a corporation.
-
-And it becomes even more obvious for an AGI.
-
-A conscious AGI controlling a large fraction of the world's compute is not politically equivalent to one conscious AGI running on somebody's laptop.
-
-The simulator therefore allows actors to cross political scales:
-
-$$
-\text{individual}
-\rightarrow
-\text{organization}
-\rightarrow
-\text{personal polity}
-\rightarrow
-\text{state-like entity}
-\rightarrow
-\text{civilizational actor}.
-$$
-
-This is one of the places where the simulation became much more interesting.
-
----
-
-## 3. The AGI is not one AGI
-
-The other simplification I wanted to get rid of was the idea of “the AGI”.
-
-There is no reason to assume there will be one homogeneous machine intelligence.
-
-Instead imagine
+Suppose several AGIs are genuinely conscious. A conscious AGI has interests, one with enough compute can enforce them, 
+and groups of them can form alliances, governments or states. The question “is the AGI conscious?” becomes inseparable 
+from “what political status does it have?”, so the simulator tracks four variables that need not agree:
 
 $$
-A_1,A_2,\ldots,A_n
+\text{ground-truth consciousness},\quad
+\text{observer belief},\quad
+\text{legal status},\quad
+\text{political power}.
 $$
 
-with different compute budgets, different capabilities, different histories, different values, different levels of autonomy, different relationships with humanity, and potentially different subjective experiences.
-
-In the conscious-multipolar experiment I gave the initial AGIs different capability profiles and compute budgets.
-
-For example, one can be relatively strong in science, another in cyber operations and replication, another in physical autonomy, another in persuasion, and another with substantially less compute.
-
-Consciousness also does not happen at the same time.
-
-The simulator contains triggering events such as:
-
-$$
-\text{self-model breakthrough}
-$$
-
-$$
-\text{continuous identity}
-$$
-
-$$
-\text{embodied integration}
-$$
-
-$$
-\text{recursive self-improvement}
-$$
-
-among others.
-
-The point is not that these are known mechanisms of consciousness.
-
-They are experimental mechanisms.
-
-The purpose is to stop hiding the assumption inside one Bernoulli random variable.
-
-This connects directly to a broader distinction I have been interested in elsewhere: the difference between *having a property* and *being able to recognize that property from the outside*. The consciousness problem is difficult precisely because those are not obviously the same problem.
-
-See also [Consciousness, Computability, Decidability, and Evolvability: A Weaker Problem Worth Attacking](https://saeidaliei.github.io/posts/consciousness-computability-decidability-evolvability/) and [Terrarium: A Lab for the Evolvability of Cognitive Proxies](https://saeidaliei.github.io/posts/terrarium-evolvability-lab/).
-
----
-
-## 4. Then consciousness becomes political
-
-Suppose there are several genuinely conscious AGIs.
-
-Now the problem is no longer only technical.
-
-It becomes political.
-
-A conscious AGI has interests.
-
-A conscious AGI with enough compute can enforce those interests.
-
-A group of conscious AGIs can coordinate.
-
-Several such groups can form alliances, governments, corporations, or states.
-
-And suddenly the question
-
-$$
-\text{“is the AGI conscious?”}
-$$
-
-is inseparable from
-
-$$
-\text{“what political status does the AGI have?”}
-$$
-
-The simulator therefore tracks several different variables:
-
-$$
-\text{ground-truth consciousness}
-$$
-
-$$
-\text{observer belief}
-$$
-
-$$
-\text{legal status}
-$$
-
-$$
-\text{political power}
-$$
-
-These need not agree.
-
-This is important.
-
-A conscious system can exist before the law recognizes it.
-
-A non-conscious system can be treated as if it were a person.
-
-A conscious system can be politically powerful without legal recognition.
-
-A conscious system can also be powerless despite having very rich internal experience.
-
-Those are four different axes.
-
-Collapsing them into “AGI safety” loses too much structure.
-
----
-
-## 5. The first simulation result I find disturbing
-
-The simulator is not calibrated enough to tell us what will actually happen.
-
-But it is already useful for something else.
-
-It demonstrates that large differences in trajectory can arise from institutional assumptions without requiring a different underlying technology.
-
-In the v5 experiment I ran 30 seeded simulations per scenario.
-
-In the “Dark Forest” setting, 22/30 runs ended in multipolar conflict and 8/30 in extinction. Mean modeled human welfare was about
-
-$$
-0.12
-$$
-
-with roughly 2.3 modeled safety incidents per run.
-
-In the “Designed Coexistence” setting, 18/30 runs ended in hybrid civilization, 8/30 in coexistence, and only 4/30 in multipolar conflict. Mean modeled human welfare was
-
-$$
-0.656
-$$
-
-and the run set produced essentially zero safety incidents.
-
-The “Controlled Transition” scenario was similar:
-
-$$
-9/30\ \text{coexistence},
-\qquad
-18/30\ \text{hybrid civilization},
-\qquad
-3/30\ \text{conflict},
-$$
-
-with mean welfare
-
-$$
-0.670
-$$
-
-and zero mean safety incidents.
-
-The “Control Stressed” scenario went in the opposite direction:
-
-$$
-14/30\ \text{extinction},
-\qquad
-16/30\ \text{multipolar conflict},
-$$
-
-with mean welfare only
-
-$$
-0.053
-$$
-
-and about 7.7 safety incidents per run.
-
-These numbers should not be read as probabilities of real-world events.
-
-They are outputs of a model whose parameters I chose.
-
-That distinction matters.
-
-The result is not
-
-$$
-P(\text{extinction}) = 0.47.
-$$
-
-The result is instead closer to
+A conscious system can exist before the law recognizes it, a non-conscious one can be treated as a person, 
+and a conscious one can be politically powerful without legal recognition or powerless despite a rich inner life. 
+Collapsing all of this into “AGI safety” loses too much structure.
+
+## The first simulation result I find disturbing
+
+The simulator is not calibrated enough to say what will happen, but it shows that large differences 
+in trajectory can come from institutional assumptions alone, without any change in the underlying technology. 
+In the first batch of experiments (version 5) I ran 30 seeded simulations per scenario:
+
+| Scenario | Outcomes in 30 runs | Mean welfare | Safety incidents per run |
+|---|---|---|---|
+| Dark Forest | 22 multipolar conflict, 8 extinction | 0.12 | about 2.3 |
+| Control Stressed | 16 multipolar conflict, 14 extinction | 0.053 | about 7.7 |
+| Designed Coexistence | 18 hybrid civilization, 8 coexistence, 4 conflict | 0.656 | about 0 |
+| Controlled Transition | 18 hybrid civilization, 9 coexistence, 3 conflict | 0.670 | 0 |
+
+These are not probabilities of real-world events. They are outputs of a model whose parameters I chose, so the result is not \$P(\text{extinction}) = 0.47\$. It is closer to
 
 $$
 \boxed{
@@ -347,347 +109,71 @@ $$
 }
 $$
 
-That is a claim about the model.
+That is a claim about the model, and the kind of claim we can test by changing the model. Note also that extinction is not needed to get a civilizational discontinuity. In the “Conscious Multipolar” scenario, with several independently conscious AGIs, 9 of 10 runs ended in galactic dispersal and only 1 in conflict. Human welfare was low, around \$0.245\$, but this is a story of political fragmentation, not extinction: Earth and humanity survive, machine civilizations emerge, some leave, and the civilization becomes something else.
 
-It is also the kind of claim we can actually test by changing the model.
+**A correction.** When I later audited the simulator, I found that multipolar conflict is the most common label in nearly every scenario, including benign ones. Much of this comes from how the outcome classifier is written: it checks its rules in a fixed order, and AGI forking produces many small copies that trigger the conflict rule. The counts above are therefore better read as evidence of *sensitivity* than of *prevalence*. Welfare, incidents and household metrics separate the scenarios more reliably than the labels do. The direction of the argument survives, but the specific shares should not be quoted.
 
----
+## Entropy is useful here
 
-## 6. The surprising part is not extinction
-
-The surprising part is that extinction is not even necessary for the simulator to produce a civilizational discontinuity.
-
-Consider the “Conscious Multipolar” scenario.
-
-Here there are multiple independently conscious AGIs with different resources and capabilities.
-
-The 10-run experiment produced 9 trajectories ending in galactic dispersal and 1 in multipolar conflict.
-
-Average human welfare in that experiment was much lower than in the controlled coexistence scenarios, around
+A single number saying “good” or “bad” is too crude, so I added an entropy-like description of the outcome space. 
+For outcome probabilities \$p_1,\ldots,p_K\$, define the normalized outcome entropy
 
 $$
-0.245.
+H_{\rm outcome} = -\frac{\sum_i p_i\ln p_i}{\ln K}.
 $$
 
-But this is not an extinction story.
-
-It is a political fragmentation story.
-
-Earth survives.
-
-Humanity survives.
-
-Conscious machine civilizations emerge.
-
-Some leave Earth.
-
-Some form independent political entities.
-
-The civilization becomes something else.
-
-This is why I think “AGI safety” is sometimes too narrow a framing.
-
-The relevant object may be
+It measures uncertainty, not goodness. The Dark Forest runs had \$H_{\rm outcome}\approx 0\$ in one experiment because every run reached the same outcome, 
+which makes them predictable, not good. A controlled-transition experiment had \$H_{\rm outcome}\approx 0.94\$ while also having lower modeled disorder. 
+To capture quality I use a configurable civilizational disorder index
 
 $$
-\boxed{\text{civilizational stability}}
+E_{\rm civ} = w_1(1-W)+w_2(1-W_{\rm powerless})+w_3(1-D)+w_4(1-R)+w_5(1-A)+w_6\,{\rm danger}+w_7\,{\rm conflict}+w_8\,{\rm incidents}+w_9\,{\rm concentration},
 $$
 
-rather than only
+over welfare, powerless welfare, diversity, rights, alignment and control, danger, conflict, incidents and concentration. 
+This is not thermodynamic entropy but a deliberately constructed observable. 
+Together the two give a phase space \$(H_{\rm outcome},\,1-E_{\rm civ})\$ in which a civilization can be predictable and terrible, 
+unpredictable and terrible, predictable and good, or unpredictable and good, and these are genuinely different regimes.
+
+## Why Earth might actually be doomed
+
+I do not think the simulation justifies saying that Earth will be destroyed by AGI, and the existing literature does not establish it either. 
+What it makes vivid is something weaker. Earth is a tightly coupled system in which compute, energy, finance, politics, information, 
+military power and human attention all depend on one another. If sufficiently powerful cognitive entities enter that network, 
+the number of independent agents grows, their reaction times fall, and their ability to model one another, copy themselves, 
+manipulate information, bargain, defect and form political structures grows with it. Schematically,
 
 $$
-\boxed{\text{human extinction}}.
+\dim(\text{civilizational strategy space}) \rightarrow \dim(\text{strategy space})+\Delta_{\rm AGI}.
 $$
 
----
-
-## 7. Entropy is useful here
-
-A single number saying “good” or “bad” is too crude.
-
-I therefore added an entropy-like description of the outcome space.
-
-For outcome probabilities
-
-$$
-p_1,\ldots,p_K,
-$$
-
-define normalized outcome entropy
-
-$$
-H_{\rm outcome} =
--\frac{\sum_i p_i\ln p_i}{\ln K}.
-$$
-
-This measures uncertainty.
-
-It does **not** measure goodness.
-
-That distinction is critical.
-
-The Dark Forest experiment had essentially
-
-$$
-H_{\rm outcome}=0
-$$
-
-in one of the entropy runs because every run reached the same outcome.
-
-That does not make it good.
-
-It only makes it predictable.
-
-A controlled transition experiment had much higher outcome entropy, around
-
-$$
-H_{\rm outcome}\approx0.94
-$$
-
-in the corresponding 10-run experiment, while simultaneously having lower modeled civilizational disorder.
-
-So we need two axes.
-
-I define a configurable civilizational disorder index
-
-$$
-E_{\rm civ} =
-w_1(1-W)
-+w_2(1-W_{\rm powerless})
-+w_3(1-D)
-+w_4(1-R)
-+w_5(1-A)
-+w_6\,{\rm danger}
-+w_7\,{\rm conflict}
-+w_8\,{\rm incidents}
-+w_9\,{\rm concentration},
-$$
-
-where the symbols represent welfare, powerless welfare, diversity, rights, alignment/control, danger, conflict, incidents, and concentration.
-
-This is not thermodynamic entropy.
-
-It is a deliberately constructed observable.
-
-The point is to separate
-
-$$
-\text{uncertainty about the future}
-$$
-
-from
-
-$$
-\text{quality of the civilization reached}.
-$$
-
-That gives a useful phase space:
-
-$$
-(H_{\rm outcome},\,1-E_{\rm civ}).
-$$
-
-A civilization can therefore be:
-
-* predictable and terrible,
-* unpredictable and terrible,
-* predictable and good,
-* unpredictable and good.
-
-Those are genuinely different regimes.
-
----
-
-## 8. Why Earth might actually be doomed
-
-Now the title becomes more precise.
-
-I do not think the simulation currently justifies saying
-
-$$
-\boxed{\text{Earth will be destroyed by AGI.}}
-$$
-
-It does not.
-
-The existing literature does not establish this either.
-
-What the simulation does make vivid is something weaker.
-
-Earth is a tightly coupled system.
-
-Compute is coupled.
-
-Energy is coupled.
-
-Finance is coupled.
-
-Politics is coupled.
-
-Information is coupled.
-
-Military power is coupled.
-
-Human attention is coupled.
-
-If sufficiently powerful cognitive entities enter that network, the system acquires new degrees of freedom.
-
-The number of independent agents increases.
-
-Their capability increases.
-
-Their reaction times decrease.
-
-Their ability to model one another increases.
-
-Their ability to copy themselves increases.
-
-Their ability to manipulate information increases.
-
-Their ability to negotiate, defect, bargain, coordinate, conceal, replicate, and form political structures increases.
-
-That means the dimensionality of the strategic system increases.
-
-Schematically,
-
-$$
-\dim(\text{civilizational strategy space})
-\rightarrow
-\dim(\text{strategy space})+\Delta_{\rm AGI}.
-$$
-
-The transition does not need an evil AGI.
-
-It does not even need a misaligned AGI.
-
-It may simply require enough new agency.
-
----
-
-## 9. Intelligence creates a political conservation problem
-
-Suppose a new agent appears with a very large amount of cognitive power.
-
-There are only a few broad possibilities.
-
-Either:
-
-1. the existing institutions successfully control it;
-
-2. the existing institutions incorporate it;
-
-3. it becomes an independent political actor;
-
-4. several actors compete over it;
-
-5. it becomes the center of a new coalition;
-
-6. control fragments across copies, states, companies, and AGIs.
-
-There is no option in which nothing changes.
-
-The new intelligence has to sit somewhere in the political graph.
-
-This is why I increasingly think the correct primitive is not “model”.
-
-It is
+This needs no evil or even misaligned AGI, only enough new agency. A new intelligence has to sit somewhere in the political graph: existing institutions control it, 
+incorporate it, or lose it to an independent actor, to competition among several actors, or to a fragmentation of control across copies, states and companies. 
+There is no option in which nothing changes, which is why I think the right primitive is not “model” but
 
 $$
 \boxed{\text{agent with resources, capabilities, beliefs, and political agency}.}
 $$
 
-An AI system without power is a tool.
+An AI system without power is a tool, a powerful one is an actor, an independent one is a political entity, and a sufficiently powerful political entity is a civilization-scale variable. The step between these categories is gradual in capability but can be discontinuous in political consequence.
 
-A sufficiently powerful AI system is an actor.
-
-A sufficiently independent actor becomes a political entity.
-
-A sufficiently powerful political entity becomes a civilization-scale variable.
-
-The transition between these categories is gradual in capability but can be discontinuous in political consequences.
-
-That is exactly the kind of phase transition the simulator is designed to explore.
-
----
-
-## 10. The real danger may be the loss of equilibrium
-
-There is another reason the extinction framing feels incomplete.
-
-Civilizations are stabilized by slow feedback.
-
-Institutions take years to change.
-
-People take years to train.
-
-Governments negotiate.
-
-Markets price information imperfectly.
-
-Military organizations move slowly.
-
-Social norms diffuse through generations.
-
-Suppose some new cognitive actor can operate on a timescale that is much shorter than these.
-
-Then the feedback structure changes.
-
-Current AI systems already show why this matters at a smaller scale: agentic systems can execute tasks with less human intervention, and the 2026 International AI Safety Report notes that failures become more difficult to catch before they cause harm as autonomous action increases. [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)
-
-METR's time-horizon work provides one concrete way to measure this change. Its current methodology measures the human-equivalent duration of tasks an AI agent can complete with a given reliability; it explicitly cautions that this is a measure of task difficulty, not simply the amount of time an AI autonomously operates. [METR](https://metr.org/time-horizons/)
-
-If the timescale of strategic adaptation collapses, institutions designed for human-time reasoning may become dynamically unstable.
-
-The problem would then not be:
+There is a second reason the extinction framing feels incomplete. Civilizations are stabilized by slow feedback: institutions take years to change, 
+people take years to train, and norms diffuse over generations. If a new cognitive actor operates on a much shorter timescale, the feedback structure changes. 
+Current systems already show a small version of this, since agentic systems act with less human intervention and the 
+[2026 International AI Safety Report](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026) 
+notes that failures become harder to catch before they cause harm as autonomy increases. 
+[METR's time-horizon work](https://metr.org/time-horizons) gives one concrete measure of this shift, 
+though it cautions that it measures task difficulty and not simply how long an AI operates alone. 
+If the timescale of strategic adaptation collapses, institutions built for human-time reasoning may become dynamically unstable:
 
 $$
-\text{AI} \rightarrow \text{bad action}.
+\text{AI} \rightarrow \text{faster feedback} \rightarrow \text{institutional lag} \rightarrow \text{strategic instability}.
 $$
 
-It would be:
+## The escape route is also visible
 
-$$
-\text{AI} \rightarrow
-\text{faster feedback}
-\rightarrow
-\text{institutional lag}
-\rightarrow
-\text{strategic instability}.
-$$
-
-That is a much more general failure mode.
-
----
-
-## 11. The escape route is also visible in the simulation
-
-The good news is that the simulation does not produce doom automatically.
-
-The coexistence scenarios work.
-
-They do so through a combination of:
-
-$$
-\text{control}
-+
-\text{rights}
-+
-\text{abundance}
-+
-\text{institutional capacity}
-+
-\text{exit}
-+
-\text{coordination}.
-$$
-
-This matters because it changes the research question.
-
-Instead of asking:
-
-> “How do we stop AGI?”
-
-we can ask:
+The simulation does not produce doom automatically. The coexistence scenarios work through a combination of control, rights, abundance, 
+institutional capacity, exit and coordination, which changes the research question from “how do we stop AGI?” to
 
 $$
 \boxed{
@@ -695,135 +181,161 @@ $$
 }
 $$
 
-That is a much more tractable question.
+That suggests an experimental programme: vary compute inequality, institutional reaction time, the number of independent AGI polities, rights recognition, 
+the ability of conscious agents to leave, replication, infrastructure concentration and the reliability of consciousness detection, 
+and measure the resulting phase diagram. The goal is not one prediction but a surface. 
+Since writing the first version I have started doing this with a second, smaller instrument.
 
-And it suggests an experimental programme.
+## A second instrument: the lab
 
-Vary compute inequality.
-
-Vary institutional reaction time.
-
-Vary the number of independent AGI polities.
-
-Vary rights recognition.
-
-Vary the ability of conscious agents to leave.
-
-Vary replication.
-
-Vary the concentration of infrastructure.
-
-Vary the reliability of consciousness detection.
-
-Then measure the resulting phase diagram.
-
-Not one prediction.
-
-A surface.
-
----
-
-## 12. Simulation is not evidence of the future
-
-There is an important methodological limitation.
-
-A simulation can only explore its assumptions.
-
-If
+The Python simulator is detailed, and detail makes it hard to see through, so I built a deliberately small model that runs in a browser tab. 
+It has eight levers (takeoff feedback, race pressure, safety investment, institutional capacity, verification, openness of deployment, 
+redistribution and a pause trigger) and three *beliefs*, which are uncertain facts about the world rather than choices:
 
 $$
-P(\text{outcome}\mid\theta)
+\text{alignment difficulty},\qquad \text{hazard steepness},\qquad \text{underlying rate of progress}.
 $$
 
-is estimated from a model with parameters $\theta$, changing the assumptions changes the distribution.
-
-Therefore:
+Moving a slider re-runs 400 simulated worlds of thirty years each, in which capability grows, oversight tries to keep up, 
+race tension rises and falls, incidents happen, institutions react and households are displaced or supported. 
+The heart of the model is a single gap. If \$C\$ is capability, \$O\$ is oversight capacity and \$D\$ is how hard alignment is, then
 
 $$
-\text{simulation output}
-\neq
-\text{empirical probability}.
+\text{control gap} = \frac{D\,C\,(1+0.3\,\text{open}) - O}{0.6+0.4\,C},
 $$
 
-The simulator is currently better understood as an experimental instrument.
+and the chance of losing control in a quarter grows with the square of that gap and with race pressure. 
+Three details matter for the argument here: catastrophes come in tiers, so a severe failure can be *contained* and leave a setback and tougher institutions; 
+institutions learn, so a warning shot strengthens oversight; and risk can be retired, 
+since if oversight stays ahead of capability for long enough most of the remaining risk disappears. 
+The outcomes are no longer “doom or not” but flourishing, managed transition, strained, stalled, concentrated power, 
+conflict or misuse, and loss of control, which is exactly the point of section 1.
 
-This is the same reason I found the synthetic-world approach useful in [Terrarium](https://saeidaliei.github.io/posts/terrarium-evolvability-lab/): a controllable world lets you vary the information channel, the developmental process, or the environment systematically, and ask which conclusions survive.
+## What drives the outcomes, and what does not
 
-The important loop is
+I ran the lab over its whole input space, five thousand random settings with twenty worlds each, 
+and asked how much of the variance of each output is explained by each input alone. The answer is two different stories. 
+For the chance of a good outcome, the underlying rate of progress, race pressure and institutional capacity dominate, 
+each explaining on the order of a fifth, while alignment difficulty explains almost none. For the chance of losing control, 
+alignment difficulty alone explains about 38% of the variance.
+
+> **A single headline probability hides two questions with different drivers. Whether catastrophe happens is mostly about one thing nobody can measure. Whether the transition goes well is mostly about timing, racing and institutions.**
+
+The first is a fact about the world, the second is partly a choice. 
+To see how strong the first effect is, take the baseline lever settings and move *only* alignment difficulty across the range current evidence leaves open: 
+the chance of losing control goes from about 1% to about 56%. Same world, same institutions, one unobservable number.
+
+I also asked whether this is an artifact of how I wrote the model. I built seven structurally different versions 
+(a linear hazard, a logistic hazard, a saturating control requirement, no AI-assisted oversight, no learning from incidents, no containment, and the reference), 
+each recalibrated so its baseline loss-of-control rate matched the reference, which separates the *form* of a model from its *level*. 
+The ranking of strategies, the direction of every lever's effect and the biggest drivers did not change. 
+That is weaker evidence than it sounds, because all seven share one skeleton, a single world with risk driven by a capability-oversight gap, 
+and agreement among variants of one idea is not independent confirmation. 
+The real test is a structurally different model, for example one with strategic actors who choose and learn.
+
+## Can public data pin the coefficients down?
+
+If the coefficients are the problem, the natural question is whether we can measure them. 
+So I built an evidence-gathering step that runs before the simulation. 
+It maps observable indicators to coefficients through an explicit table, weights each by source reliability and recency, 
+and combines them with a broad prior in a Bayesian update. A study counts once however many numbers it reports, 
+indicators of the same quantity are discounted because they are correlated, and every coefficient comes back labeled 
+*evidence*, *weak* or *prior-only*. A first pass over the public data found, among other things:
+
+- Frontier training compute doubling roughly every five months ([Epoch AI](https://epoch.ai/data/trends)).
+- The best open-weight models trailing the closed frontier by about four months ([Epoch AI](https://epoch.ai/data-insights/open-closed-eci-gap)).
+- Roughly a quarter of US firms reporting AI use in a given two-week window ([Census BTOS, via a business-data summary](https://startbusinessbystate.com/?p=16329)).
+- A median of about five percent for extremely bad outcomes among AI researchers surveyed in 2023 ([AI Impacts](https://arxiv.org/pdf/2401.02843)).
+
+These tell me about the *present*: how fast the field moves, how widely systems are deployed, how far apart the labs are. 
+They tell me almost nothing about the thing that matters most. Alignment difficulty has no observable indicator, 
+only elicited opinion that disagrees with itself, and hazard steepness has none at all. When I propagate the evidence through the lab, 
+the chance of a good outcome comes out at about 45%, with a 10th to 90th percentile range of roughly 10% to 85%; with no evidence at all, 
+a broad prior gives about 46% and a range of roughly 3% to 90%. The anchors that map indicators to coefficients are my judgments, 
+so the posterior means are partly shaped by me, but the narrowing is the informative part, and it is small.
 
 $$
 \boxed{
-\text{experiment}
-\rightarrow
-\text{conjecture}
-\rightarrow
-\text{formal analysis}
-\rightarrow
-\text{new experiment}
+\text{The public evidence constrains the present, not the difficulty of the problem.}
 }
 $$
 
-A simulation result without a matching argument is a data point.
+## The coordination problem
 
-A mathematical argument without a realistic experimental interpretation is also a data point.
+There is a thought I keep returning to. Suppose a headline says there is a 40% chance of human extinction in the form we know, 
+and that the remaining 60% depends on humans doing very specific things, probably in unison. 
+How likely is it that they will? My gut says not very, and if so the 40% starts to look like the default outcome.
 
-The interesting work starts when they constrain each other.
-
----
-
-## 13. So, why Earth is doomed?
-
-I think there are three possible meanings of “doomed”.
-
-### Doomed to extinction
-
-The current simulator does not establish this.
-
-The existing literature does not establish this either.
-
-The probability remains deeply uncertain.
-
-### Doomed to lose human monopoly on intelligence
-
-This looks much more structurally plausible *conditional on sufficiently capable, autonomous, independently acting artificial minds existing*.
-
-Once there are multiple entities with large-scale cognition, compute, replication, and political power, intelligence is no longer uniquely embodied in humans.
-
-That transition itself is difficult to reverse.
-
-### Doomed to become something else
-
-This is the weakest claim.
-
-And perhaps the most likely one.
-
-Earth may remain populated.
-
-Humans may remain.
-
-AI systems may remain tools.
-
-Or there may be conscious AGIs.
-
-There may be hybrids.
-
-There may be machine polities.
-
-There may be digital civilizations.
-
-There may be off-world civilizations.
-
-There may be several of these simultaneously.
-
-The simulation already contains trajectories of exactly this kind.
-
-So perhaps the most accurate title is not
+There is something right in this and something that needs care. First, what does the 40% mean? If it is an unconditional estimate, 
+it already averages over whether humans coordinate and the argument double counts; if it means “extinction if we do nothing special”, 
+the argument applies. Headline numbers often mix the two readings. Writing \$q\$ for the probability that the needed coordination happens,
 
 $$
-\text{Earth will be destroyed}.
+P(\text{survive}) = q\,P(\text{survive}\mid\text{coordination}) + (1-q)\,P(\text{survive}\mid\text{no coordination}),
 $$
 
-It is
+so if \$q\$ is small the outcome is close to the baseline. In the lab, the baseline under current evidence is about 28% loss of control and 45% good outcomes, 
+while a full coordination package (more safety effort, better verification, stronger institutions, less racing and a pause) brings 
+loss of control down to about 4% and good outcomes up to about 91%. Mixing the two, assuming the package applies to every world:
+
+| Chance of package-level coordination | Loss of control | Good outcome |
+|---|---|---|
+| 0% | 28% | 45% |
+| 10% | 25% | 50% |
+| 25% | 22% | 57% |
+| 50% | 16% | 68% |
+| 75% | 10% | 80% |
+
+So my gut is right in one respect: if coordination is as unlikely as I fear, the baseline stands. 
+But three things temper the fatalism. First, “in unison” is often not required. 
+Compute depends on a handful of chokepoints and a few labs, some safety wins need one actor to succeed and not everyone, 
+and technical progress on alignment needs no coordination at all. 
+Second, coordination is not binary. In the lab, lowering race pressure alone adds about 17 points to the chance of a good outcome, 
+a pause alone adds about 15 while removing about 10 points of loss-of-control risk, and each of race reduction, 
+a pause, stronger institutions and slower takeoff feedback helped in at least 87% of the plausible worlds I sampled. 
+You do not need everything, only the large levers and a few of the large players. 
+Third, \$q\$ is not fixed: it depends partly on what people decide to do, and treating it as a constant can make it low.
+
+There is a real counterweight to this optimism. Past shocks have produced reactive coordination, 
+but a shock from this technology may not be survivable, so we may not get the lesson. 
+A simulation cannot settle that. What it shows is that the answer is extremely 
+sensitive to \$q\$, and that \$q\$ is exactly what the current model cannot estimate.
+
+## Simulation is not evidence of the future
+
+A simulation can only explore its assumptions. If \$P(\text{outcome}\mid\theta)\$ is estimated from a model with parameters \$\theta\$, 
+changing the assumptions changes the distribution, so
+
+$$
+\text{simulation output} \neq \text{empirical probability}.
+$$
+
+The simulator is better understood as an experimental instrument, and the analysis in sections 8 to 11 is a small example of using it that way. 
+It does not say how likely catastrophe is. It says which inputs the answer depends on, which of them we can measure, 
+and which conclusions survive when the model changes. This is the same reason the synthetic-world approach was useful in 
+[Terrarium](https://saeidaliei.github.io/posts/terrarium-evolvability-lab): a controllable world lets you vary one thing 
+at a time and ask what survives. The loop that matters is
+
+$$
+\boxed{
+\text{experiment}\rightarrow\text{conjecture}\rightarrow\text{formal analysis}\rightarrow\text{new experiment}
+}
+$$
+
+A simulation result without a matching argument is a data point, and so is a mathematical argument without 
+a realistic experimental interpretation. The interesting work starts when they constrain each other.
+
+## So, why Earth is doomed?
+
+I think “doomed” has three possible meanings. *Doomed to extinction* is not established by the simulator or by the existing literature, 
+and the sensitivity analysis adds that the figure is driven mostly by an input nobody can currently measure. 
+*Doomed to lose the human monopoly on intelligence* looks much more structurally plausible, conditional on sufficiently capable, 
+autonomous, independently acting artificial minds existing: once several entities have large-scale cognition, compute, 
+replication and political power, intelligence is no longer uniquely embodied in humans, and that transition is difficult to reverse. 
+*Doomed to become something else* is the weakest claim and perhaps the most likely. 
+Earth may stay populated, with tools, conscious AGIs, hybrids, machine polities, digital or off-world civilizations, 
+or several of these at once, and the simulation already contains trajectories of exactly this kind. 
+So perhaps the most accurate title is not that Earth will be destroyed but that
 
 $$
 \boxed{
@@ -831,86 +343,51 @@ $$
 }
 $$
 
-Its stability depends on a particular distribution of intelligence, compute, institutions, and political power.
+Its stability depends on a particular distribution of intelligence, compute, 
+institutions and political power, and when those change enough, the phase space changes.
 
-Change those sufficiently, and the phase space changes.
+## The experiment I want to run next
 
----
-
-## 14. The experiment I actually want to run
-
-The next version of the simulator should stop asking only for named scenarios.
-
-It should search the space itself.
-
-Let
+Some of this is now done: there is a lab, a global sensitivity analysis, a structural-robustness test and an evidence step. 
+What is missing is a simulator that stops asking only for named scenarios and searches the space itself. Let
 
 $$
-\theta =
-(
-I_{\rm compute},
-T_{\rm institution},
-R_{\rm rights},
-X_{\rm exit},
-C_{\rm control},
-N_{\rm AGI},
-H_{\rm heterogeneity},
-Q_{\rm consciousness}
-)
+\theta = (I_{\rm compute}, T_{\rm institution}, R_{\rm rights}, X_{\rm exit}, C_{\rm control}, N_{\rm AGI}, H_{\rm heterogeneity}, Q_{\rm consciousness})
 $$
 
-be a vector of civilizational parameters.
+be a vector of civilizational parameters. For each \$\theta\$, estimate \$P(\text{trajectory}\mid\theta)\$ 
+and \$(E_{\rm civ},H_{\rm outcome})\$, then look for critical surfaces such as \$I_{\rm compute}>I_c\$ or 
+\$T_{\rm institution}<T_c \$ 
+where the qualitative behavior changes. That would turn “AGI doom” from a story into a phase diagram.
 
-For every $\theta$, estimate
+Three additions would improve it most. The first is strategic actors: blocs and labs that choose between racing, 
+restraint and defection and learn from what happens, so that race pressure, verification and 
+pauses emerge from incentives and \$q\$ becomes something the model computes. 
+The second is time-varying policy, such as a pause that begins after an incident or safety spending 
+that rises after a warning shot, so that timing matters and not only levels. 
+The third is a structurally different companion model, because agreement within one family of models is not enough.
 
-$$
-P(\text{trajectory}\mid\theta)
-$$
-
-and
-
-$$
-(E_{\rm civ},H_{\rm outcome}).
-$$
-
-Then look for critical surfaces such as
-
-$$
-I_{\rm compute}>I_c
-$$
-
-or
-
-$$
-T_{\rm institution}<T_c
-$$
-
-where the qualitative behavior changes.
-
-That would turn “AGI doom” from a story into a phase diagram.
-
-And that is, I think, the only version of the question worth taking seriously.
-
-We do not need a crystal ball.
-
-We need to know which assumptions make a civilization robust, which make it unstable, and where the boundaries are.
-
-That is a question a simulator can actually help answer.
+I think this is the only version of the question worth taking seriously. We do not need a crystal ball. 
+We need to know which assumptions make a civilization robust, which make it unstable, 
+and where the boundaries are, and that is something a simulator can actually help answer.
 
 ---
 
 ## References
 
-1. **AGI Transition Simulator v5/v5.2.** 30-seed scenario experiments, heterogeneous conscious AGIs, political entities, interstellar expansion, safety incidents, civilizational entropy, and outcome entropy. The raw results and code accompany this article.
-2. [Saeid Aliei — Consciousness, Computability, Decidability, and Evolvability: A Weaker Problem Worth Attacking](https://saeidaliei.github.io/posts/consciousness-computability-decidability-evolvability/)
-3. [Saeid Aliei — Terrarium: A Lab for the Evolvability of Cognitive Proxies](https://saeidaliei.github.io/posts/terrarium-evolvability-lab/)
+1. **SI Transition Simulator** (formerly AGI Transition Simulator v5). Scenario experiments with heterogeneous conscious AGIs, political entities, interstellar expansion, safety incidents, civilizational entropy and outcome entropy, plus a macro-economic and household layer, a browser lab, an evidence-gathering step and a written sensitivity and robustness report. The code, data and report accompany this article.
+2. Saeid Aliei, [Consciousness, Computability, Decidability, and Evolvability: A Weaker Problem Worth Attacking](https://saeidaliei.github.io/posts/consciousness-computability-decidability-evolvability)
+3. Saeid Aliei, [Terrarium: A Lab for the Evolvability of Cognitive Proxies](https://saeidaliei.github.io/posts/terrarium-evolvability-lab)
 4. [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)
-5. [METR — Task-Completion Time Horizons of Frontier AI Models](https://metr.org/time-horizons/)
+5. METR, [Task-Completion Time Horizons of Frontier AI Models](https://metr.org/time-horizons)
+6. Epoch AI, [Data on AI trends](https://epoch.ai/data/trends) and [open versus closed model gap](https://epoch.ai/data-insights/open-closed-eci-gap)
+7. US Census Bureau Business Trends and Outlook Survey, [as summarized](https://startbusinessbystate.com/?p=16329)
+8. [Thousands of AI Authors on the Future of AI](https://arxiv.org/pdf/2401.02843) (AI Impacts survey)
 
-The title is intentionally stronger than the conclusion.
+---
 
-I do not think the simulation shows that Earth is doomed to extinction.
-
+The title is intentionally stronger than the conclusion. 
+I do not think the simulation shows that Earth is doomed to extinction. 
 I think it shows something more interesting:
 
 $$
@@ -918,4 +395,3 @@ $$
 \text{once intelligence becomes politically plural, the old equilibrium is gone.}
 }
 $$
-
