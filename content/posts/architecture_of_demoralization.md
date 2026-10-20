@@ -35,7 +35,8 @@ large part of how people can be controlled. A person may have no chain on their
 body and still find that their movements, relationships, choices, and sense of
 what is possible have narrowed. They may technically be free to leave while
 facing the loss of their friends, reputation, livelihood, family relationships,
-or only source of emotional relief.
+or only source of emotional relief; or even in some cases implicit or explicit 
+threats of physical and/or sexual harm as observed.
 
 Evan Stark's account of *coercive control* is useful here because it shifts
 attention from isolated incidents to a pattern that can combine intimidation,
