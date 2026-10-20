@@ -164,17 +164,22 @@ A free mind is not an uncaused mind. It is a mind whose actions flow from its ow
 
 ## What changes, and what does not
 
-The usual fear is that if there is no free will then nothing matters, nobody can be blamed, and we should all give up. 
-That does not follow. Determinism is not fatalism: fatalism says your efforts do not matter because the outcome is fixed, 
-while determinism says your efforts are part of what fixes it. Deliberation is a causal process, and it works.
-
-What changes is retribution. If no one ultimately authors their character, then punishing someone *because they deserve suffering* loses its foundation, 
-while punishing to deter, to incapacitate, to protect and to rehabilitate all remain. 
-Quarantining a dangerous person makes sense without hatred, in the same way quarantining a disease carrier does. 
-Sapolsky argues this at length and I think it is the strongest practical consequence of the whole argument, 
-and also the hardest one to live, because we are built to judge and knowing the argument does not turn the judging off. 
-You will still feel angry and you will still feel proud. The difference is whether you endorse those feelings as metaphysically deserved, 
-or treat them as part of the causal machinery that keeps a social species functioning.
+What does change is how we treat people who cause harm, and I think it changes almost everything. 
+If nobody ultimately authors their character, then there is no threshold at which someone becomes deserving of suffering, 
+because it is turtles all the way down for the person who steals and for the person who kills. 
+The tumor in Whitman’s brain is just the cause we happened to find, and there are always others we haven’t. 
+Seen this way, imprisonment as we practice it, with its aim of making someone pay for what they did, 
+makes no sense to me, and I think future generations will look at it the way we look at the stocks and the dungeon: 
+as something medieval, built on a picture of the person that biology has made untenable. 
+The one thing that survives is the narrow case where someone is an active danger to others and has 
+to be kept apart from them, which is what Sapolsky calls the quarantine model. 
+That is a very different thing from prison. We keep a child with a contagious illness at home without hatred, 
+without a sentence, and with a clear expectation that they will rejoin everyone once they’re well, 
+and the same logic would demand that any restraint be as limited, humane and temporary as possible, 
+paired with real effort to understand and treat the causes. Almost everything else, the punishment, 
+the stigma, the lifelong record, the revenge dressed up as justice, falls away once you take the argument seriously. 
+We won’t stop feeling the pull toward retribution, since it is an old emotion that served social species well, 
+but we can stop building institutions on it.
 
 ## The strongest objections
 
