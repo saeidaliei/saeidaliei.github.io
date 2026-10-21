@@ -151,8 +151,8 @@ and \$M_{+\infty}=\max_i x_i\$. Every \$M_p\$ is permutation invariant, so the
 whole family is impartial. And the power mean inequality orders it:
 
 $$
-p_1<p_2\;\Longrightarrow\;M_{p_1}(x)\le M_{p_2}(x)
-$$
+p_1 < p_2\;\Longrightarrow\;M_{p_1}(x)\le M_{p_2}(x)
+$$ 
 
 Three named positions sit on this line:
 
