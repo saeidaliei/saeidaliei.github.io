@@ -7,7 +7,7 @@ There is a particular kind of tragedy that haunts the foundations of physics and
 It is not the tragedy of a wrong answer, but of a right question asked in a language no one else could parse—and guarded 
 so fiercely that it was never allowed to be translated. 
 The case of Peter Putnam—a name that should sit alongside Feynman, Everett, and Thorne, yet has been buried 
-in the footnotes of John Archibald Wheeler’s correspondence—is perhaps the purest example of this.
+in the footnotes of Wheeler’s correspondence.
 
 In 1987, a 60-year-old man was killed by a drunk driver while cycling to his night-shift job 
 as a janitor at the Department of Transportation in Houma, Louisiana. He was known locally as a quiet, 
@@ -31,8 +31,8 @@ or flattering him, or looking for a shortcut to his ideas without the commitment
 
 So he built what one account calls “walls made of words”. He refused to provide an easy summary of his theory. 
 As Amanda Gefter’s reconstruction of his life makes clear, Putnam’s logic was explicit: 
-**“To weed out anyone who wasn’t in it for the right reasons, he refused to provide an easy summary. 
-It was total commitment or nothing at all.”** This was not mere eccentricity. It was a form of spiritual hygiene. 
+“To weed out anyone who wasn’t in it for the right reasons, he refused to provide an easy summary. 
+It was total commitment or nothing at all.” This was not mere eccentricity. It was a form of spiritual hygiene. 
 The problem of consciousness, for Putnam, was not a career move or a parlor game. 
 It was a sacred problem, and he treated it with the reverence of someone who believed 
 that approaching it with the wrong motives would corrupt the inquiry itself.
