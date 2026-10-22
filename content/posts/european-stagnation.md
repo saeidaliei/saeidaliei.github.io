@@ -4,7 +4,7 @@ date: 2026-10-22
 author: Saeid
 ---
 
-A plastic cap is an oddly small object to carry a theory of Europe. Under an EU
+A plastic cap is an oddly small object to carry a model of Europe. Under an EU
 rule, caps on certain single-use plastic beverage containers must remain
 attached during intended use[^1]. The environmental rationale is intelligible;
 so is the everyday irritation. The rule became a meme because it seems to stand
@@ -131,7 +131,8 @@ returns. Exploration is uncertain, expensive, and
 often looks wasteful before it succeeds. An adaptive system can therefore become
 increasingly effective in the short run while undermining itself over the long
 run: it improves what it already knows faster than it learns what it does not
-know.
+know. Maintain enough exploration that today's success doesn't prevent 
+tomorrow's adaptation.
 
 A country can exhibit the same pattern without consciously deciding to stagnate.
 Its institutions become good at delivering the outcomes around which they were
