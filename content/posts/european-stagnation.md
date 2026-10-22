@@ -23,7 +23,9 @@ That is the thought I want to examine. Europe has not stopped developing, and
 there are good reasons to value many of its choices. My concern is more
 specific: it may be getting harder for its institutions and public imagination
 to distinguish preserving a successful arrangement from remaining capable of
-success under different conditions.
+success under different conditions. At times, this feels almost contrary to
+evolution: not because Europe has stopped changing, but because it may be
+losing the capacity to adapt to changes it did not choose.
 
 ## A choice is not the same as a constraint
 
@@ -83,13 +85,49 @@ arrangement itself has become the problem.
 Every society has equilibria. The question is whether the conditions that
 rewarded the current one are still the conditions that will determine success.
 
+## In what sense is this against evolution?
+
+At times, the situation looks almost anti-evolutionary. That phrase needs care:
+evolution has no destination, and biological evolution does not guarantee
+progress, intelligence, complexity, or ever-increasing speed. It selects for
+fitness under particular conditions. A strategy that succeeds in one
+environment can become maladaptive when that environment changes. The analogy
+is not that societies literally evolve like organisms, but that both face the
+problem of adapting to conditions that do not stand still.
+
+An institution can be well adapted to the world in which it formed and poorly
+adapted to the world that is arriving. Traits that once helped it thrive—
+consensus, risk minimization, procedural safeguards, and protection for existing
+interests—can persist after their relative value changes. The result is not
+stasis in the literal sense. It is a mismatch between the direction or speed of
+institutional adaptation and the direction or speed of environmental change.
+
+Evolutionary processes also depend on variation. If deviations from established
+practice are treated as threats by default, a system reduces its own supply of
+experiments. Many experiments will fail; that is part of how alternatives are
+found and tested. This is not an argument for romanticizing disruption or
+turning market selection into a moral law. Societies can and should constrain
+some outcomes. But if experimentation becomes too costly, if successful
+experiments cannot scale, or if adaptations elsewhere are dismissed before
+they are understood, a society weakens its own ability to discover what might
+work under new conditions.
+
+In this sense, the evolutionary contradiction is not that Europe values leisure
+or social protection. It is that a system can confuse adaptation with
+preservation. It cannot secure its future merely by keeping intact the
+arrangements that made its past successful. Evolution offers no guarantee that
+yesterday's optimum will remain fit tomorrow. Human societies have an advantage
+that biological evolution does not: they can recognize a mismatch and revise
+their institutions deliberately. Losing that capacity would be a failure not of
+change in general, but of adaptive change.
+
 ## The advantage of what already works
 
-There is a well-developed idea in organizational research that comes close to
-this problem. In his 1991 paper *Exploration and Exploitation in Organizational
-Learning*, James G. March distinguishes between refining what an organization
-already knows and searching for new possibilities[^2]. Exploitation tends to
-produce clearer short-term returns. Exploration is uncertain, expensive, and
+Organizational research describes a related tension. In his 1991 paper
+*Exploration and Exploitation in Organizational Learning*, James G. March
+distinguishes between refining what an organization already knows and searching
+for new possibilities[^2]. Exploitation tends to produce clearer short-term
+returns. Exploration is uncertain, expensive, and
 often looks wasteful before it succeeds. An adaptive system can therefore become
 increasingly effective in the short run while undermining itself over the long
 run: it improves what it already knows faster than it learns what it does not
@@ -237,12 +275,14 @@ accept short-term costs before a long-term necessity becomes a crisis?
 A society does not have to maximize growth to be successful. It does, however,
 need enough capability to finance and revise the life it has chosen.
 
-The danger is not that Europe has chosen a good life. It is that it may begin to
-treat the good life it inherited as proof that it has reached the end of
+The danger is not that Europe has chosen a good life. It is that it may begin
+to treat the good life it inherited as proof that it has reached the end of
 history. A civilization's achievements should give it more freedom to explore,
-not less reason to do so. The real test is whether, while its arrangements still
-provide comfort and security, it can recognize when they are no longer
-enough—and change before reality makes the decision for it.
+not less reason to do so. Its adaptive advantage lies not in preserving every
+arrangement that once worked, but in retaining the ability to revise them when
+the world changes. The real test is whether, while its institutions still
+provide comfort and security, it can recognize when they are no longer enough
+—and change before reality makes the decision for it.
 
 ## References
 
