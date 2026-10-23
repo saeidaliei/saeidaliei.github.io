@@ -1,8 +1,12 @@
 ---
-title: "The Architecture of Demoralization: Public Shaming, Fear-Based Control, and The Weaponization of Attachment"
+title: >-
+  The Architecture of Demoralization: Public Shaming, Fear-Based Control, and
+  the Weaponization of Attachment
 date: 2026-10-20
+lastmod: 2026-10-23
 author: Saeid
 ---
+
 There is an obvious image of coercion: a locked door, a direct threat, a hand
 preventing someone from leaving. But control does not always need a visible
 barrier. It can operate through the relationships a person depends on, the
@@ -35,12 +39,11 @@ large part of how people can be controlled. A person may have no chain on their
 body and still find that their movements, relationships, choices, and sense of
 what is possible have narrowed. They may technically be free to leave while
 facing the loss of their friends, reputation, livelihood, family relationships,
-or only source of emotional relief; or even in some cases implicit or explicit 
-threats of physical and/or sexual harm as observed.
+or only source of emotional relief.
 
 Evan Stark's account of *coercive control* is useful here because it shifts
 attention from isolated incidents to a pattern that can combine intimidation,
-isolation, surveillance, and the deprivation of ordinary liberty[^6]. The key
+isolation, surveillance, and the deprivation of ordinary liberty.[^1] The key
 question is not only, “What did this person do?” It is also, “What has the
 person been made unable to do, and what happens when they try?”
 
@@ -75,7 +78,7 @@ Research on social ostracism has found that exclusion can affect how people
 perceive their own humanity and the humanity of those excluding them. Bastian
 and Haslam's experiments found that ostracized participants tended to judge
 themselves and their ostracizers as less human, with aspects of ordinary “human
-nature” especially sensitive to exclusion.[^7] That finding does not prove that
+nature” especially sensitive to exclusion.[^2] That finding does not prove that
 every real-world campaign of humiliation has the same cause or outcome. It does
 help explain why social rejection can reach deeper than wounded pride: it can
 disturb the person's sense of belonging to the human community itself.
@@ -90,30 +93,30 @@ the result of the group's treatment.
 
 Traumatic bonding is commonly described as a strong emotional bond that can form
 between an abused person and the person abusing them. Two important features in
-the literature are a power imbalance and the intermittent rewards and punishment[^1][^5]. 
-The attachment is not evidence that the harm was acceptable, nor that the person 
-experiencing it secretly wanted to be harmed. It can arise under conditions 
-designed to make safety unpredictable and emotional relief scarce.
+the literature are a power imbalance and the alternation of mistreatment with
+moments of care or relief.[^3][^4] The attachment is not evidence that the harm
+was acceptable, nor that the person experiencing it secretly wanted to be
+harmed. It can arise under conditions designed to make safety unpredictable and
+emotional relief scarce.
 
-The more recent concept of **weaponized attachment** shifts the analytic focus
-toward what the perpetrator does with the bond. Rather than viewing attachment
-only as a reaction occurring inside the victim, it asks whether closeness itself
-has been cultivated and then used to sustain control. In their 2025 study, Mags
-Lesiak and Loraine Gelsthorpe describe how grooming, disclosure of trauma,
-emotional closeness, and alternating cruelty with care can form part of a
-coercive pattern[^4]. Their study was qualitative and involved interviews with
-18 women who had experienced repeated domestic abuse. It is not a universal
-prevalence study, but it provides a direct account of how a perpetrator's
-conduct can shape the attachment that later appears, from the outside, to be the
-victim's inexplicable choice.
+The concept of **weaponized attachment** shifts the analytic focus toward what
+the perpetrator does with the bond. Rather than viewing attachment only as a
+reaction occurring inside the victim, it asks whether closeness itself has been
+cultivated and then used to sustain control. In their 2025 study, Mags Lesiak
+and Loraine Gelsthorpe describe how grooming, disclosure of trauma, emotional
+closeness, and alternating cruelty with care can form part of a coercive
+pattern.[^5] Their study was qualitative and involved interviews with 18 women
+who had experienced repeated domestic abuse. It is not a universal prevalence
+study, but it provides an account of how a perpetrator's conduct can shape the
+attachment that later appears, from the outside, to be the victim's inexplicable
+choice.
 
-This perspective connects to the argument developed in my earlier post, *There
-is Trauma Bond and Then There is Weaponized Attachment*, which reproduces Mags
-Lesiak's discussion and points to the broader framework[^2]. The relevant
-distinction is between attachment as a human capacity and attachment as an
-instrument. The capacity to bond is not the
-defect. The problem is a relationship in which closeness is used to destabilize
-a person's ability to judge danger, retain autonomy, and leave.
+This perspective connects to my earlier post, *There is Trauma Bond and Then
+There is Weaponized Attachment*, which reproduces Mags Lesiak's discussion and
+points to the broader framework.[^6] The relevant distinction is between
+attachment as a human capacity and attachment as an instrument. The capacity to
+bond is not the defect. The problem is a relationship in which closeness is used
+to destabilize a person's ability to judge danger, retain autonomy, and leave.
 
 The sequence can be especially confusing when the same source appears to offer
 both the injury and the relief. Affection can seem to confirm that the
@@ -191,7 +194,7 @@ creates a moral cover for conduct that would otherwise be recognized as cruelty.
 Albert Bandura's work on moral disengagement helps explain how this cover can
 function. People may redescribe harmful conduct in morally acceptable language,
 minimize its consequences, shift responsibility to authorities or other group
-members, and blame or dehumanize the people harmed[^8]. These mechanisms do not
+members, and blame or dehumanize the people harmed.[^7] These mechanisms do not
 require every participant to know the full pattern or share the same motive.
 Responsibility can be distributed across separate acts until each participant
 sees only a small, defensible part of the whole.
@@ -209,61 +212,115 @@ the group? Are the rules transparent and consistent? Is the alleged helper
 accountable for harm? If the answer to these questions is consistently no, the
 language of help deserves to be examined rather than accepted at face value.
 
-## Cults and collective weaponized attachment
+## When every answer is no: the closed system of control
 
-The logic described above can extend beyond an intimate relationship. In a
-high-control group, attachment may be distributed across a leader, a community,
-a doctrine, a moral identity, a family network, and a promise of belonging. The
-person may risk not one relationship but an entire social and existential world
-by dissenting or leaving. This is one way to understand the collective dimension
-of weaponized attachment: the bond is reinforced not only by one person, but by
-the network of relationships and meanings surrounding that person.
+These questions are not a diagnostic checklist in which one negative answer
+proves that a group is a cult or that every event was coordinated. Their value
+lies in looking at the whole arrangement. But what happens when the answer is no
+to every safeguard—that the person cannot refuse safely, cannot seek outside
+perspectives, cannot leave without severe punishment, cannot understand the
+rules, and cannot obtain accountability from those imposing them?
 
-This does not mean that religion itself, or every close-knit community, is
-coercive. Unusual beliefs are not sufficient evidence of abuse. The more useful
-question is how a group operates: whether authority is concentrated and
-unaccountable, whether independent information and outside relationships are
-restricted, whether dissent brings punishment, and whether belonging is made
-conditional on obedience. Philip Zimbardo's overview of extreme social influence
-describes how conformity, compliance, guilt, fear, identification, authority,
-and social isolation can interact to constrain freedom of choice and action[^9].
+In that case, the problem is no longer simply that a relationship is painful or
+that a group has demanding beliefs. **Every ordinary route by which a person
+might test, challenge, or exit the system has been obstructed.** Refusal carries
+a cost; leaving threatens the loss of relationships or livelihood; outside help
+is discredited or inaccessible; the rules can change without notice; and the
+authority responsible for the treatment is not answerable to the person who
+suffers it. A formal statement that “you are free to leave” means little if
+leaving is accompanied by retaliation, public degradation, threats, or the loss
+of one's entire support network.
 
-The same practices can also connect individual attachment to collective
-pressure. Affection and recognition may be granted when a member conforms, while
-shame, confession, denunciation, or shunning may follow disagreement. Public
-humiliation then becomes more than an interpersonal event: the audience helps
-enforce the group's boundaries. Members can be invited to interpret the
-punishment as moral correction, protection, or evidence that the excluded person
-is defective. The resulting isolation can then be presented as confirmation of
-the original accusation.
+The consequences accumulate. A person may begin to censor their own thoughts
+before anyone else has to intervene. They may hide ordinary preferences, avoid
+making plans, or stop asking questions because each act of independent judgment
+seems to invite another penalty. Uncertainty becomes a constant burden: the
+person cannot reliably know what will be held against them, which rule applies,
+or whether an apparent reprieve is genuine. The safest short-term strategy can
+become compliance, not because the person consents, but because every visible
+alternative appears to carry a greater cost.
 
-The International Cultic Studies Association cautions against assuming that all
-high-control experiences are alike and emphasizes the possible effects of such
-environments on autonomy, identity, cognition, relationships, and trust.[^10]
-This is an important distinction. The aim is not to classify every demanding
-belief system as a cult, but to examine observable practices and their effects:
-Can members question authority without retaliation? Can they maintain outside
-relationships and access independent information? Can they leave without
-threats, coercive penalties, or the deliberate destruction of their social
-world? Are leaders and institutions accountable for the harms they cause?
+Over time, this can erode the practical basis of agency. Isolation removes
+people who might offer other interpretations; public shame makes seeking help
+feel dangerous; conditional kindness gives hope that compliance will finally
+restore safety; and the absence of accountability teaches the target that
+protest achieves nothing. The person may come to anticipate defeat before
+acting, internalize the group's view of them, and lose confidence in their
+ability to make decisions. These are possible consequences of sustained coercive
+environments, not inevitable outcomes for every person exposed to pressure.
 
-Under these conditions, control can become distributed. One person may define
-the rules, others may repeat them, relatives may withdraw contact, and peers may
-carry out social punishment. These participants need not all share one motive or
-know the full consequences for their actions to combine into an environment that
-constrains the target. Bandura's account of moral disengagement helps explain
-how harmful conduct can be recast as duty, discipline, or protection, while
-responsibility is displaced or minimized[^8]. Whether coordination or deliberate
-intent occurred in a particular case remains a question for evidence, not
-something that follows automatically from the cumulative effect.
+The group-level consequence is equally important. When each person is
+responsible only for a fragment of the treatment, the cumulative harm can become
+difficult to name. One person repeats a rumor, another withdraws support,
+another invokes a moral rule, and another insists that no one is forcing the
+target to stay. Each action can be defended in isolation while their combination
+deprives someone of meaningful choice. A common narrative then turns the
+target's distress into evidence of defectiveness, instead of asking whether the
+conditions themselves produced that distress.
 
-In this article, the application of weaponized attachment to cultic or
-high-control settings is an analytical extension, not a claim that it is a
-separate clinical diagnosis or that every group follows the same mechanism. It
-highlights a structural possibility: when belonging, identity, protection, and
-meaning are all made dependent on the same authority, social attachment itself
-can become an instrument of governance. Leaving then threatens not only a bond,
-but the network that gave the bond its significance.
+This is one point at which a high-control group can resemble a closed system:
+the authority defines the problem, prescribes the remedy, controls which
+evidence counts, and interprets resistance as further proof of the problem. The
+label *cult* should not be used casually as a substitute for evidence. The
+underlying questions are more concrete: who sets the conditions of belonging,
+what happens when someone disagrees, whether leaving is practically possible,
+and whether those with power can be held accountable.[^8]
+
+If the answer to every safeguard is no, the result can be **entrapment without a
+visible lock**. The person may be physically free to move while socially,
+emotionally, financially, or psychologically constrained. The way out is not to
+insist that they simply become more decisive. It is to identify which routes to
+safety and independent judgment have been blocked and what outside support,
+documentation, resources, or trusted relationships could reopen them. A pattern
+of negative answers is a reason for serious concern and independent
+assessment—not, on its own, proof of every inferred motive behind it.
+
+## Psychological torture: the injury that may leave no visible mark
+
+There is a distinction between an injury that can be seen and an injury whose
+effects spread through a person's sense of safety, identity, and future. In my
+view, and from my personal experience, psychological torture can be far worse
+than physical injury. A broken finger may heal over weeks or months; a person
+who has been psychologically broken may never be exactly the person they were
+before. The damage can outlast the event because it does not end at the point
+when the threat or humiliation stops. It can follow the survivor into
+relationships, memory, sleep, desire, trust, and the ability to imagine a
+future.
+
+That comparison is a statement about the depth and persistence of psychological
+suffering, not a universal ranking of every physical and psychological injury.
+Physical torture can also cause lasting disability, chronic pain, and
+psychological trauma; psychological and physical harms often interact. Recovery
+from psychological injury is possible, and a survivor should not be described as
+permanently broken or beyond repair. But recovery is not the same as pretending
+that the person simply returns to an untouched earlier state. Some people
+rebuild their lives while carrying changes in how they experience safety,
+closeness, and themselves.
+
+The United Nations Special Rapporteur on torture has emphasized that
+psychological torture can target basic psychological needs: security,
+self-determination, dignity and identity, social and emotional connection, and
+communal trust.[^9] It may arise from a single act or from the accumulation of
+circumstances that appear minor when separated from the wider environment. Its
+severity must be considered in context, including duration, powerlessness,
+purpose, and the combination of methods—not merely by asking whether a physical
+mark remains.
+
+This is why public degradation, isolation, serious threats, intrusive
+surveillance, arbitrary treatment, and the deliberate undermining of a person's
+ability to make sense of their environment deserve to be taken seriously. The
+absence of a visible wound does not tell us that the suffering is mild. Nor does
+the use of language such as “help,” “correction,” “spiritual growth,” or
+“rehabilitation” change the character of conduct that intentionally inflicts
+severe suffering or strips a person of meaningful agency.
+
+Psychological torture is not simply “hurt feelings,” and not every harmful
+interaction meets the legal or clinical definition of torture. The term must be
+used carefully. But the broader point remains: severe psychological harm can be
+real, debilitating, and enduring even when an observer sees no broken bone. If
+an experience damages a person's trust, sense of self, capacity for pleasure,
+and confidence that action can change anything, the injury should not be
+discounted merely because it is invisible.
 
 ## From demoralization to dehumanization
 
@@ -286,10 +343,10 @@ exist without fear.
 When this extends to identity, the person may begin to feel less human, unreal,
 numb, or detached from other people. These experiences do not mean the person is
 less human. They are ways a person may experience severe distress,
-disconnection, or sustained exclusion. The research on ostracism provides one
-window into the relationship between social exclusion and self-dehumanization;
+disconnection, or sustained exclusion. Research on ostracism provides one window
+into the relationship between social exclusion and self-dehumanization;
 trauma-bonding research provides another into the way attachment, shame, and
-power can become entangled[^1][^7]
+power can become entangled.[^3][^2]
 
 Dehumanization also runs in the other direction. A group may first describe its
 target as defective, dangerous, corrupt, or unworthy, making harsher treatment
@@ -358,7 +415,12 @@ become central:
 No single answer proves the entire pattern. But these questions move the
 analysis beyond the misleading idea that a person is simply too attached, too
 sensitive, too ashamed, or too weak to leave. They direct attention to the
-structure within which the person's responses have developed.
+structure within which the person's responses have developed. The discussion of
+the closed system of control matters because it asks whether the ordinary
+safeguards for independent judgment and safe refusal are actually available.
+When none are available, the question is no longer simply whether the person
+should leave; it is what has made leaving, refusing, or getting help so costly
+or inaccessible.
 
 ## Conclusion: the objective is not only compliance
 
@@ -370,12 +432,12 @@ conditional; desire becomes a liability; and the future becomes difficult to
 imagine without anticipating humiliation.
 
 That is why trauma bonds, weaponized attachment, public shaming, fear-based
-control, and dehumanization belong in the same discussion. They are not
-identical concepts, and one should not be used as proof of the others. But they
-can describe different layers of a single destructive pattern: attachment can
-bind the person, shame can isolate them, a legitimizing story can excuse the
-treatment, and repeated loss can demoralize them until the world feels smaller
-than it once did.
+control, psychological torture, and dehumanization belong in the same
+discussion. They are not identical concepts, and one should not be used as proof
+of the others. But they can describe different layers of a single destructive
+pattern: attachment can bind the person, shame can isolate them, a legitimizing
+story can excuse the treatment, and repeated loss can demoralize them until the
+world feels smaller than it once did.
 
 The corrective is not to demand that the target become more resilient while
 leaving the structure untouched. It is to restore the conditions under which
@@ -395,63 +457,62 @@ safeguards are needed to prevent that from being treated as normal.
 
 This essay connects several frameworks to analyze a pattern of events. It does
 not claim that traumatic bonding, weaponized attachment, public shaming,
-coercive control, and dehumanization are interchangeable terms. The Lesiak and
-Gelsthorpe study is a qualitative study of 18 women reporting repeat domestic
-abuse; it supports analysis of the perpetrator's role in attachment but does not
-establish the prevalence of every pattern discussed here. Likewise, research on
-ostracism and moral disengagement helps explain relevant mechanisms but cannot,
-by itself, verify the motive behind any particular event. The argument is
-strongest when it remains attentive to both the lived sequence of events and the
-evidence supporting each causal connection.
+coercive control, psychological torture, and dehumanization are interchangeable
+terms. The Lesiak and Gelsthorpe study is a qualitative study of 18 women
+reporting repeat domestic abuse; it supports analysis of the perpetrator's role
+in attachment but does not establish the prevalence of every pattern discussed
+here. Research on ostracism, moral disengagement, and psychological torture
+helps explain relevant mechanisms but cannot, by itself, verify the motive
+behind any particular event. The argument is strongest when it remains attentive
+to both the lived sequence of events and the evidence supporting each causal
+connection.
 
 ## References
 
-[^1]: **Traumatic bonding.** *Wikipedia.* A useful overview of traumatic
-    bonding, including power imbalance, intermittent reward and punishment,
-    attachment, and possible outcomes.
-    https://en.wikipedia.org/wiki/Traumatic_bonding
-
-[^2]: **Aliei, Saeid.** “There is Trauma Bond and Then There is Weaponized
-    Attachment.” *Saeid Aliei*, 5 October 2026. This post reproduces Mags
-    Lesiak's article and provides a point of entry into the
-    weaponized-attachment framework.
-    https://saeidaliei.github.io/posts/trauma-bonds-weaponized-attachment/
-
-[^3]: **Lesiak, Mags.** “The Danger of Weaponized Attachment: Professionals need
-    to be aware that abusers may use affection, not fear, to entrap.”
-    *Psychology Today*, 28 October 2025.
-    https://www.psychologytoday.com/us/blog/psychology-in-the-courtroom/202510/the-danger-of-weaponized-attachment
-
-[^4]: **Lesiak, Mags, and Loraine Gelsthorpe.** “The Invisible Abuser:
-    Attachment, Victimization, and Perpetrator Perception in Repeat Abuse.”
-    *Violence Against Women* 32, no. 11 (online first 14 October 2025):
-    4195–4214. https://doi.org/10.1177/10778012251379423
-
-[^5]: **Dutton, Donald G., and Susan Painter.** “Emotional Attachments in
-    Abusive Relationships: A Test of Traumatic Bonding Theory.” *Violence and
-    Victims* 8, no. 2 (1993): 105–120. https://doi.org/10.1891/0886-6708.8.2.105
-
-[^6]: **Stark, Evan.** *Coercive Control: The Entrapment of Women in Personal
+[^1]: **Stark, Evan.** *Coercive Control: The Entrapment of Women in Personal
     Life.* Oxford University Press, 2007.
     https://doi.org/10.1093/oso/9780195154276.001.0001
 
-[^7]: **Bastian, Brock, and Nick Haslam.** “Excluded from Humanity: The
+[^2]: **Bastian, Brock, and Nick Haslam.** “Excluded from Humanity: The
     Dehumanizing Effects of Social Ostracism.” *Journal of Experimental Social
     Psychology* 46, no. 1 (2010): 107–113.
     https://doi.org/10.1016/j.jesp.2009.06.022
 
-[^8]: **Bandura, Albert.** “Moral Disengagement in the Perpetration of
+[^3]: **Traumatic bonding.** *Wikipedia.* A general overview of traumatic
+    bonding, including power imbalance, intermittent reward and punishment,
+    attachment, and possible outcomes.
+    https://en.wikipedia.org/wiki/Traumatic_bonding
+
+[^4]: **Dutton, Donald G., and Susan Painter.** “Emotional Attachments in
+    Abusive Relationships: A Test of Traumatic Bonding Theory.” *Violence and
+    Victims* 8, no. 2 (1993): 105–120.
+    https://pubmed.ncbi.nlm.nih.gov/8193053/
+
+[^5]: **Lesiak, Mags, and Loraine Gelsthorpe.** “The Invisible Abuser:
+    Attachment, Victimization, and Perpetrator Perception in Repeat Abuse.”
+    *Violence Against Women* 32, no. 11 (2026): 4195–4214. First published
+    online in 2025.
+    https://doi.org/10.1177/10778012251379423
+
+[^6]: **Aliei, Saeid.** “There is Trauma Bond and Then There is Weaponized
+    Attachment.” *Saeid Aliei*, 5 October 2026. This post reproduces Mags
+    Lesiak's discussion and points to the broader weaponized-attachment
+    framework.
+    https://saeidaliei.github.io/posts/trauma-bonds-weaponized-attachment/
+
+[^7]: **Bandura, Albert.** “Moral Disengagement in the Perpetration of
     Inhumanities.” *Personality and Social Psychology Review* 3, no. 3 (1999):
-    193–209. https://doi.org/10.1207/s15327957pspr0303_3
+    193–209.
+    https://doi.org/10.1207/s15327957pspr0303_3
 
-[^9]: **Zimbardo, Philip G.** “Mind control: Psychological reality or mindless
-    rhetoric?” *Monitor on Psychology*, November 2002. This overview discusses
-    social-influence mechanisms and extreme forms of influence; it should be
-    read as a historical overview, not as a formal APA policy statement.
-    https://www.apa.org/monitor/nov02/pc
+[^8]: **International Cultic Studies Association (ICSA).** “Resources for
+    researchers and academics.” This page outlines interdisciplinary research
+    on high-control groups, coercive influence, and group dynamics.
+    https://internationalculticstudies.org/resources-academics/
 
-[^10]: **International Cultic Studies Association.** “Resources for
-    professionals and service providers.” Guidance for professionals working
-    with people affected by high-control groups, including emphasis on nuance,
-    autonomy, and avoiding assumptions that all experiences are alike.
-    https://internationalculticstudies.org/resources-professionals-service-providers/
+[^9]: **Melzer, Nils.** *Torture and other cruel, inhuman or degrading treatment
+    or punishment: Report of the Special Rapporteur.* United Nations Human
+    Rights Council, A/HRC/43/49, 2020. The report examines psychological torture
+    under human-rights law, including humiliation, isolation, threats, and the
+    cumulative impact of psychological methods.
+    https://digitallibrary.un.org/record/3870734

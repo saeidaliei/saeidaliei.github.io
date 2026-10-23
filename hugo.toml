@@ -8,7 +8,11 @@ pagination.pagerSize = 10
   showMenuItems = 5
   manuallyOrderedMenuItems = true
   showReadingTime = false
+  lastModDisplay = true
   math = true
+
+[frontmatter]
+  lastmod = ["lastmod"]
 
 [languages]
   [languages.en.params]
