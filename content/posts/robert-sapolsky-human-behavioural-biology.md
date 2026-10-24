@@ -5,8 +5,9 @@ authro: Saeid
 ---
 
 Some lectures become familiar enough to turn into a soundtrack for sleep. 
-Robert Sapolsky’s Stanford course on *Human Behavioral Biology* has accompanied countless nights of mine. 
-That is not a complaint. Few courses reward repetition so well.
+Robert Sapolsky’s excellent Stanford course on *Human Behavioral Biology* has accompanied countless nights of mine, 
+on par with Sidney Coleman's Harvard *Qunatum Field Theory* lectures.
+Few courses reward repetition so well.
 
 The central idea is deceptively simple: human behavior has no single cause.
 
