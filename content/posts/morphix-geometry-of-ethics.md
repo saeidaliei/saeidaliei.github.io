@@ -29,9 +29,8 @@ philosophical concepts instead of its original targets.
 
 Before anything else, the status. Morphix is an early research prototype.
 Everything reported below was run on synthetic data with known ground truth. Two
-real datasets have been identified and loaders written, but neither has been
-used yet, because I could not fetch them from the build environment. And one of
-the central hypotheses failed. That failure is, I think, the most instructive
+real datasets have been identified. And one of the central hypotheses failed. 
+That failure is, I think, the most instructive
 result so far, so it gets its own section rather than a footnote.
 
 A note on reading: terms followed by a reference like (A.3) are
