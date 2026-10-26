@@ -55,4 +55,4 @@ The opportunity to contribute to such groundbreaking scientific research is intr
 It's not just about solving complex engineering problems but enabling humanity to explore the cosmos in ways 
 and scales we've never been able to before.
 
-Ping me at: [saeid.aliei@gmail.com](mailto:saeidaliei@gmail.com).
+Ping me at: [saeid.aliei.livary@gmail.com](mailto:saeid.aliei.livary@gmail.com).
