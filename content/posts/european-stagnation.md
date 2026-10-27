@@ -1,7 +1,6 @@
 ---
 title: "When a Civilization Mistakes Equilibrium for Progress: The Great European Stagnation"
 date: 2026-10-22
-author: Saeid
 ---
 
 A plastic cap is an oddly small object to carry a model of Europe. Under an EU

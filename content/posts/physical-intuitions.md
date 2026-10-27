@@ -1,7 +1,6 @@
 ---
 title: "Physical Intuition: Something that still hasn't been Leaned away."
 date: 2026-08-16
-author: Saeid
 ---
 Currently Large Language Models (LLM) coupled with Rienforcement Learning with Verifiable Rewards (RLVR) are winning math olympiads, proving theorems etc. which is to be expected, because you have Lean in math, but not the equivallent in physics. I suspect at least in short-term LLMs are unable to gain "true" physical intuition, at least not in the sense that giants like Einstein had. 
 Nonetheless this is a collection of physics arguments framed around the reasoning that makes a strange result feel inevitable once you see it the "right way".

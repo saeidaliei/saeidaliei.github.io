@@ -1,7 +1,6 @@
 ---
 title: "There is Trauma Bond and Then There is Weaponized Attachment."
 date: 2026-10-05
-author: Saeid
 ---
 There is a lot of darkness in the world. History is full of unspeakable 
 acts that humans have done to one another. 

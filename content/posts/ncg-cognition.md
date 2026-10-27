@@ -1,7 +1,6 @@
 ---
 title: "Cognition as Non-Commutative Geometry"
 date: 2026-08-21
-author: Saeid
 ---
 
 There is a simple mathematical idea, **non-commutativity**, with consequences that are easy to underestimate:

@@ -1,7 +1,6 @@
 ---
 title: "Robert Sapolsky’s Human Behavioral Biology"
 date: 2026-10-24
-authro: Saeid
 ---
 
 Some lectures become familiar enough to turn into a soundtrack for sleep. 

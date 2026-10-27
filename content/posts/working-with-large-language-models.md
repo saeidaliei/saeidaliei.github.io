@@ -1,7 +1,6 @@
 ---
 title: "Working with Large Language Models"
 date: "2025-02-15"
-author: "Saeid"
 description: "Large language models are experiencing their Cambrian explosion. 
     They may not be the path to AGI, but at least they give a taste of what it could be. 
     The current mainstream approach to rely on scaling, may not be the sole solution, 

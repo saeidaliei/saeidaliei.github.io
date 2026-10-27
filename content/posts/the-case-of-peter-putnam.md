@@ -1,7 +1,6 @@
 ---
 title: "The Case of Peter Putnam"
 date: 2026-10-17
-author: Saeid
 ---
 There is a particular kind of tragedy that haunts the foundations of physics and the philosophy of mind. 
 It is not the tragedy of a wrong answer, but of a right question asked in a language no one else could parse—and guarded 

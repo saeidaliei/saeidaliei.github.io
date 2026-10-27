@@ -2,7 +2,6 @@
 title: "Morphix: Can Ethics Have a Geometry?"
 date: 2026-10-21
 lastmod: 2026-10-24
-author: Saeid
 ---
 
 There is a simple question that sounds too vague to be mathematical: when the

@@ -1,7 +1,6 @@
 ---
 title: "Terrarium: A Lab for the Evolvability of Cognitive Proxies"
 date: 2026-08-15
-author: Saeid
 ---
 This is a companion piece to
 [Consciousness, Computability, Decidability, and Evolvability](/posts/consciousness-computability-decidability-evolvability.md).

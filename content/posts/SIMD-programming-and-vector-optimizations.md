@@ -1,7 +1,6 @@
 ---
 title: "SIMD Programming and Vector Optimizations"
 date: "2025-02-03"
-author: "Saeid"
 description: "
 Essentially all modern processors have the capability to apply instructions on a vector 
 in one processing unit cycle instead of operating on a single scalar. 

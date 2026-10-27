@@ -1,7 +1,6 @@
 ---
 title: "Consciousness, Computability, Decidability, and Evolvability: A Weaker Problem Worth Attacking"
 date: 2026-08-15
-author: Saeid
 ---
 ## 1. The starting intuition, and why it's too strong as stated
 

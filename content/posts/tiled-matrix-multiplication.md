@@ -1,7 +1,6 @@
 ---
 title: "Tiled Matrix Multiplication"
 date: "2025-01-25"
-author: "Saeid"
 description: "Tiled algorithms, in general, divide the problem into smaller, manageable tiles that fit into faster, but limited-size memory, be it cache, shared memory, or registers, to improve memory access patterns. Many problems which often involve matrices, can be broken down into tiles. This improves **cache** utilization which improves cache hit/miss ratio, by reusing data within smaller subproblems. In this post we implement tiled matrix multiplication."
 ---
 The idea is simple, reuse the data already loaded into the cache as much as possible. 

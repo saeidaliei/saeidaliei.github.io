@@ -4,7 +4,6 @@ title: >-
   the Weaponization of Attachment
 date: 2026-10-20
 lastmod: 2026-10-23
-author: Saeid
 ---
 
 There is an obvious image of coercion: a locked door, a direct threat, a hand

@@ -1,7 +1,6 @@
 ---
 title: "Operator Algebras, Modular Theory, and Quantum Gravity: A Physicist’s Guide"
 date: 2026-10-24
-authro: Saeid
 ---
 In quantum field theory, even defining the entropy of a region of space is more subtle than it first appears. 
 The familiar quantum-mechanical picture, in which a system is described by a density matrix and its entanglement entropy calculated from it, 

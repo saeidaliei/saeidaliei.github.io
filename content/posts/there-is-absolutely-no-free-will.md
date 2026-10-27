@@ -1,7 +1,6 @@
 ---
 title: "There is Absolutely No Free Will"
 date: 2026-10-19
-author: Saeid
 ---
 
 There is a simple argument against free will, and it is uncomfortable mostly

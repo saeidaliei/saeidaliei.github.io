@@ -1,7 +1,6 @@
 ---
 title: "The Seed and the Act: Announcing Visprax and UnsafeAI"
 date: 2026-10-03
-author: Saeid
 ---
 I.
 

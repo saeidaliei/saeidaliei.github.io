@@ -1,7 +1,6 @@
 ---
 title: "Why Earth is Doomed?"
 date: 2026-09-23
-author: Saeid
 ---
 
 There is a simple reason I think the question “will AGI destroy humanity?” is slightly mis-specified. 

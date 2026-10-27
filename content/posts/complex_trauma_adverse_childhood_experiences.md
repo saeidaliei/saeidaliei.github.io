@@ -3,7 +3,6 @@ title: >-
   When Survival Becomes a Way of Life:
   Childhood Adversity, Complex Trauma, and The Long Work of Recovery
 date: 2026-10-23
-author: Saeid
 ---
 
 A child rarely has the freedom to decide how to adapt to the world around them.
