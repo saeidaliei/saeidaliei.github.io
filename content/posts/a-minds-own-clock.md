@@ -1,7 +1,6 @@
 ---
 title: "A Mind's Own Clock: Modular Time, Growth, and the Self"
 date: 2026-10-25
-author: Saeid
 ---
 
 The first post in this series made a simple proposal: model a cognitive system
