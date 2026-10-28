@@ -6,7 +6,7 @@ date: 2026-10-28
 Every generation thinks it is living through a turning point. Usually, this is vanity.
 
 This time it isn't. Not because catastrophe is certain—it isn't—but because 
-**the margin for error has narrowed to nothing** while we do the one thing that guarantees we will deserve the worst outcome.
+**the margin for error has narrowed to nothing** while humanity does one thing that guarantees it will deserve the worst outcome.
 
 The danger is not that superintelligence will escape.
 
