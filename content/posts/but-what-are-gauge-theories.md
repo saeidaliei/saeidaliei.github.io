@@ -1205,7 +1205,7 @@ $$
 [D_\mu,D_\nu]=-igF_{\mu\nu}.
 $$
 
-For a \(\mathrm{U}(1)\) field, the connection is just a number-valued
+For a \$\mathrm{U}(1)\$ field, the connection is just a number-valued
 potential and
 
 $$
