@@ -1,5 +1,5 @@
 ---
-title: "ssdcsdc dfvdf"
+title: "The Observer, The Observer, The Observer"
 date: 2026-11-04
 ---
 
@@ -46,17 +46,16 @@ steps are collected in section 9.
 A note on reading: terms followed by a reference like [(A.3)](#a3-the-center-and-branches)
 are explained in plainer language in the appendix at the end.
 
-## 1. Where the observer sits [#](#1-where-the-observer-sits)
+## 1. Where the observer sits 
 
 **In AdS: the boundary.** In AdS/CFT[^1] the boundary theory supplies a Hamiltonian, a
 time coordinate and a fixed frame, all sitting at infinity. That is why AdS
 looks complete without any explicit observer. My first way of putting my
-complaint was that "the bulk acts as a privileged observer". That is backwards.
-The bulk is the emergent thing, and the privileged observer is the boundary: an
-infinitely heavy, non-gravitating, classical clock that never backreacts. The
-complaint survives in a corrected form. AdS/CFT describes the world as seen by
-an ideal clock, and it has nothing to say about universes that have no
-boundary to put one on.
+complaint was that the boundary acts as a privileged observer: an infinitely 
+heavy, non-gravitating, classical clock that never backreacts, 
+and if anything, our universe doesn't like privileged anything.
+AdS/CFT describes the world as seen by an ideal clock, and it has 
+nothing to say about universes that have no boundary to put one on.
 
 **In de Sitter: the observer is explicit.** Without a boundary, there is no such clock for free.
 Witten showed that gravity turns the type III algebra of a static patch into a
@@ -75,11 +74,10 @@ that it uses the same mathematics as the de Sitter case.
 
 Maldacena has recently been talking about what happens to the sphere
 partition function of de Sitter space when an observer with a clock is
-included[^5]. I have only seen the abstract-level description of that talk, so
-I do not quote it. The point it makes is the one above: in de Sitter space the
+included[^5]. The point it makes is the one above: in de Sitter space the
 observer is not optional.
 
-## 2. What the reference-frame results settle, and what they do not [#](#2-what-the-reference-frame-results-settle-and-what-they-do-not)
+## 2. What the reference-frame results settle, and what they do not 
 
 The results I take to be central, read by me at the level of abstracts and
 key sections and not every proof:
@@ -114,7 +112,7 @@ It does not answer the AdS question, for four reasons.
    charge, so a bulk clock's evolution is not pure gauge, and there are two
    frames at once: boundary time and the bulk clock.
 
-## 3. The boundary as an ideal clock [#](#3-the-boundary-as-an-ideal-clock)
+## 3. The boundary as an ideal clock
 
 Put together, the above suggests a sharper form of the original complaint:
 
@@ -136,7 +134,7 @@ smaller question that I could actually attack: how does the clock's *correlation
 with the rest of the system* enter the entropy at all? Whatever happens at
 finite clock energy has to pass through that.
 
-## 4. A toy model: two clocks and a system [#](#4-a-toy-model-two-clocks-and-a-system)
+## 4. A toy model: two clocks and a system 
 
 The smallest model I could build that has the relevant features: two clocks
 \$A\$ and \$B\$ and a system \$S\$, with a single constraint. Each clock is an
@@ -157,9 +155,7 @@ observer-dependence of Giacomini, Castro-Ruiz and Brukner built in[^16][^17].
 **Sanity.** The physical states are gauge-invariant to machine precision. The
 distribution of the relative reading \$\tau_B-\tau_A\$, computed from a
 gauge-invariant POVM on the whole state, agrees with what each observer gets
-from their own reduction to \$10^{-16}\$. My first run failed this
-check, because I had used a complex-conjugated transform matrix in one place.
-That was a bug in the code and not a result.
+from their own reduction to \$10^{-16}\$.
 
 **Entanglement depends on the observer**. Take \$B\$ to be
 sharp in energy and \$S\$ in a superposition of energies. Seen from \$A\$, \$B\$ and
@@ -216,7 +212,7 @@ real, computable, and perspective-dependent. They are finite and type I, with
 no horizon, no type II trace and no crossed product, so they say nothing yet
 about the actual entropy formula. That is the next section.
 
-## 5. Where the correlation enters the entropy formula [#](#5-where-the-correlation-enters-the-entropy-formula)
+## 5. Where the correlation enters the entropy formula
 
 I read the Chen–Xu paper[^4] through its entropy derivation. The structure, as I
 understand it: any density
@@ -284,7 +280,7 @@ correction second-order small, in agreement with the "neglect higher than
 \$\epsilon\$" convention of the semiclassical derivation. The next section
 shows why that estimate was too optimistic.
 
-## 6. Two observers: when the clock records the other observer [#](#6-two-observers-when-the-clock-records-the-other-observer)
+## 6. Two observers: when the clock records the other observer 
 
 Take observer \$a\$ at the origin, a second observer \$b\$, and the QFT in its
 vacuum. I use three facts from the paper's setup.
@@ -341,7 +337,7 @@ Two consequences, both conditional on the classical charge relation:
   connects to the bound that separates type II\$_1\$ from type II\$_\infty\$ in
   CLPW, which is the same sign asymmetry seen from another side.
 
-## 7. Back to AdS, de Sitter and the self [#](#7-back-to-ads-de-sitter-and-the-self)
+## 7. Back to AdS, de Sitter and the self
 
 **AdS.** The conjecture of section 3 is untouched. What the toy
 models and section 5 add is a mechanism that any finite-clock correction has
@@ -363,7 +359,7 @@ supports, weakly, the earlier claim that a copy of a state is not a copy of a
 frame. It does not support any more than that. The toy is not a model of a
 mind, and I would not read the cognitive claim off the physics.
 
-## 8. What would count as evidence, and what is next [#](#8-what-would-count-as-evidence-and-what-is-next)
+## 8. What would count as evidence, and what is next
 
 | Test | What it settles | Status |
 |---|---|---|
@@ -373,7 +369,7 @@ mind, and I would not read the cognitive claim off the physics.
 | JT gravity with one massive clock | The conjecture of section 3 | not done |
 | Literature check: Witten's background-independent algebra[^21], the top-down crossed product work[^11], and anything on observer-dependent entropy in AdS | Novelty | not done; this is the first thing to do |
 
-## 9. What this does and does not claim [#](#9-what-this-does-and-does-not-claim)
+## 9. What this does and does not claim
 
 It does not claim a result about AdS. The conjecture of section 3 is a
 conjecture, and no calculation in this post tests it. It does not claim that
@@ -416,14 +412,12 @@ an answer. The observer is a clock, a clock can be correlated with what it
 times, and whether that correlation is large or negligible is a calculation I
 know how to set up and have not finished.
 
-## Appendix: The Concepts, Explained [#](#appendix-the-concepts-explained)
+## Appendix
 
-* * *
-
-Nothing here is new. Each entry says what the idea is, gives a small example,
+Each entry says what the idea is, gives a small example,
 and says why it matters for the post.
 
-### A.1 Observer, clock, reference frame [#](#a1-observer-clock-reference-frame)
+### A.1 Observer, clock, reference frame
 
 A *reference frame* is whatever measurements are made relative to. Latitude
 needs an equator and a prime meridian. A *clock* is a reference frame for time:
@@ -433,7 +427,7 @@ it measures. In this post an *observer* means exactly that, a reference frame
 with a clock and records. It does not need to be a mind, and a thermometer
 with a timer qualifies.
 
-### A.2 Constraints, gauge, and Page–Wootters [#](#a2-constraints-gauge-and-page-wootters)
+### A.2 Constraints, gauge, and Page–Wootters 
 
 A *constraint* is a condition that physical states must satisfy, such as "the
 total energy is zero". In general relativity there is no external time, so the
@@ -445,7 +439,7 @@ pages exist at once, and "time" is the page number you condition on. A
 physical state is obtained from any state by *group averaging*: summing it over
 all the shifts the constraint generates.
 
-### A.3 The center and branches [#](#a3-the-center-and-branches)
+### A.3 The center and branches
 
 The *center* of an algebra is the set of operations that commute with every
 other operation in it. They behave like classical labels: they are definite
@@ -456,7 +450,7 @@ probabilities \$p_i\$, the algebra splits into sectors, and the entropy of the
 state is the Shannon entropy of the \$p_i\$ plus the average entropy inside each
 sector. I call each value a *branch*.
 
-### A.4 Crossed products and types [#](#a4-crossed-products-and-types)
+### A.4 Crossed products and types
 
 Algebras are sorted into types by how they measure size: type I is ordinary
 matrices, type II has a trace but no smallest pieces, and type III has no trace
@@ -465,7 +459,7 @@ no absolute entropy. Adding a clock and keeping only what is invariant under
 shifting it produces a *crossed product*, which can be type II. The previous
 post explains this in more detail.
 
-### A.5 Mutual information between a clock and a label [#](#a5-mutual-information-between-a-clock-and-a-label)
+### A.5 Mutual information between a clock and a label
 
 Suppose a label takes the values "inside" and "outside" with equal probability,
 and a clock energy is measured. If the clock energy distribution is the same in
@@ -476,9 +470,7 @@ reveals the label completely, and the mutual information equals the entropy of
 the label, \$\ln 2\$ for a fair coin. In between, it is the amount by which
 knowing the energy reduces your uncertainty about the label.
 
-## References [#](#references)
-
-* * *
+## References
 
 [^1]: Juan Maldacena, The Large N Limit of Superconformal Field Theories and
     Supergravity, *Advances in Theoretical and Mathematical Physics* 2, 1998,
@@ -498,7 +490,6 @@ knowing the energy reduces your uncertainty about the label.
 
 [^5]: Juan Maldacena, lecture at the Arnold Sommerfeld Center, LMU Munich,
     [https://www.asc.physik.lmu.de/activities/lectures/archiv/thirty-first_series/maldacena_2/index.html](https://www.asc.physik.lmu.de/activities/lectures/archiv/thirty-first_series/maldacena_2/index.html).
-    I have seen only the abstract-level description of the talk.
 
 [^6]: Don N. Page and William K. Wootters, Evolution without evolution:
     Dynamics described by stationary observables, *Physical Review D* 27,
