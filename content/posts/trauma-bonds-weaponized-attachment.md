@@ -1,5 +1,5 @@
 ---
-title: "There is Trauma Bond and Then There is Weaponized Attachment."
+title: "There is Trauma Bond and Then There is Weaponized Attachment"
 date: 2026-10-05
 ---
 There is a lot of darkness in the world. History is full of unspeakable 
