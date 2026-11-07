@@ -1,5 +1,5 @@
 ---
-title: "Mirror Neurons: Root of Empath?"
+title: "Mirror Neurons: Root of Empathy?"
 date: 2026-10-27
 ---
 
