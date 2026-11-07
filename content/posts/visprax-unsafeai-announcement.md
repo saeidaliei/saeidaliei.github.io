@@ -4,16 +4,14 @@ date: 2026-10-03
 ---
 I.
 
-There is a lineage that runs from Spinoza through Einstein, 
+There is a lineage that runs from Spinoza, Einstein, to Putnam, 
 and it is not a lineage of conclusions but of a shared refusal. 
 Spinoza refused to separate mind from nature; he insisted that 
 freedom is not the absence of necessity but the understanding of it. 
 Einstein refused to accept a universe that plays dice; 
 he believed in Spinoza's God, the orderly harmony of what exists, 
 not a God who concerns himself with the fates of men. 
-Nietzsche refused to accept that values are given; 
-he insisted that they are created, that the highest 
-human act is to become the source of one's own law. 
+Peter who pursued the mystery of mind with the outmost conviction. 
 Each of them, in his own way, acted on the conviction 
 that thought is not enough. The point is not to interpret 
 the world but to change it—or, more precisely, to build something that can change it.
