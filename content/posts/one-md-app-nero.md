@@ -26,7 +26,7 @@ The app ships three interfaces that share the same Rust core :
 - **TUI** — a keyboard-driven terminal interface for focused writing and navigation.
 - **GUI** — a desktop app for when you want a more visual experience.
 
-## Key Features
+## Key features
 
 - **Plain Markdown with frontmatter**: supports tasks, images, code blocks, and math .
 - **Wiki-style linking**: `[[Wiki Links]]`, backlinks, aliases, and heading fragments .
@@ -35,7 +35,7 @@ The app ships three interfaces that share the same Rust core :
 - **Portable workflows**: optional Git versioning, local backups, encryption, and `rclone` remotes .
 - **Browser-based Preview**: built-in `browse` will preview the markdown in the browser.
 
-## Getting Started (CLI/TUI)
+## Getting started (CLI/TUI)
 
 The fastest way to try Nero is through the CLI/TUI. 
 You'll need Git and Rust (via [rustup](https://rustup.rs/)) .
@@ -50,7 +50,7 @@ cargo install --path crates/nero --force
 
 Make sure `~/.cargo/bin` is on your `PATH` .
 
-### Quick Start: Your First Workspace
+### Quick start
 
 A workspace is just a folder of Markdown files. 
 Nero remembers your default workspace, so you can run commands from anywhere .
@@ -65,7 +65,7 @@ nero config show   # inspect paths, workspace, keys, remotes
 nero tui           # open the terminal interface
 ```
 
-## Essential Commands
+## Essential commands
 
 Here are the commands you'll reach for most often :
 
@@ -93,7 +93,7 @@ nero -w personal list
 nero workspace list
 ```
 
-## Markdown and Metadata
+## Markdown and metadata
 
 Nero stores notes as regular Markdown files. New notes include a `title` and `date`; 
 daily notes also include `type: daily`. 
@@ -126,7 +126,7 @@ See also [[Signal Processing]].
 Frontmatter parsing is intentionally lightweight—Nero supports simple 
 `key: value` lines, not the complete YAML specification .
 
-## What about Backup and Encryption?
+## What about backup and encryption?
 
 Nero keeps your live workspace plain and interoperable—Git, external editors, 
 and shell tools still work—while backup artifacts can be encrypted with age.
@@ -184,7 +184,7 @@ so a misconfigured remote cannot delete unrelated data.
 **In short:** live Markdown stays plain; backups use age; full-home archives use a passphrase; 
 manifests verify integrity; restore refuses non-empty destinations and unsafe paths.
 
-## The Bottom Line
+## The bottom line
 
 Nero is not trying to be the biggest note-taking app. It's trying to be the one that gets out of your way. 
 Your notes stay as Markdown files. The interfaces are just different windows into the same plain-text source.
