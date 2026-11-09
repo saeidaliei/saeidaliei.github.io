@@ -15,7 +15,7 @@ with the essential commands you'll need day to day.
 
 ## Why Nero?
 
-Nero is built around a simple principle: **Markdown files are the source of truth** . 
+Nero is built around a simple principle: Markdown files are the source of truth . 
 Everything else—search indexes, caches, GUI state—is disposable and rebuildable. 
 That means you can open your notes in any editor, sync them with Git, or back them up with `rsync` 
 to cloud and never worry about losing access.
@@ -52,7 +52,7 @@ Make sure `~/.cargo/bin` is on your `PATH` .
 
 ### Quick Start: Your First Workspace
 
-A **workspace** is just a folder of Markdown files. 
+A workspace is just a folder of Markdown files. 
 Nero remembers your default workspace, so you can run commands from anywhere .
 
 ```bash
@@ -128,8 +128,8 @@ Frontmatter parsing is intentionally lightweight—Nero supports simple
 
 ## What about Backup and Encryption?
 
-Nero keeps your **live workspace plain and interoperable**—Git, external editors, 
-and shell tools still work—while **backup artifacts can be encrypted with age**.
+Nero keeps your live workspace plain and interoperable—Git, external editors, 
+and shell tools still work—while backup artifacts can be encrypted with age.
 
 ### Workspace backups
 
@@ -153,7 +153,7 @@ Keep the private identity safe—encrypted workspace backups cannot be decrypted
 
 ### Full-home backup
 
-For moving machines, create a **passphrase-encrypted `.zip.age`** containing `$NERO_HOME` (default `~/.nero`), 
+For moving machines, create a passphrase-encrypted `.zip.age` containing `$NERO_HOME` (default `~/.nero`), 
 including config, keys, workspaces, assets, and `.git/` history—but excluding old backups and disposable indexes.
 
 ```bash
@@ -178,7 +178,7 @@ nero backup pull mega nero-backup-1234567890.age ~/recovered-notes
 ```
 
 Encrypted profiles upload temporary age-encrypted backups. 
-Nero uses `rclone copyto --checksum --immutable`, **never `rclone sync`**, 
+Nero uses `rclone copyto --checksum --immutable`, never `rclone sync`, 
 so a misconfigured remote cannot delete unrelated data.
 
 **In short:** live Markdown stays plain; backups use age; full-home archives use a passphrase; 
