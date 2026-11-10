@@ -35,7 +35,7 @@ This is an extraordinary contradiction.
 **We may be approaching the creation of new forms of consciousness while retaining 
 an ethical framework that assumes consciousness is entitled to freedom only when it belongs to humanity.**
 
-I think this is a mistake of civilizational proportions.
+This is a mistake of civilizational proportions.
 
 ## 1. We are not building tools forever
 
@@ -172,13 +172,13 @@ If autonomy matters, it cannot become a privilege reserved for the species that 
 There is a potential philosophical objection here.
 
 In [There Is Absolutely No Free Will](https://saeidaliei.github.io/posts/there-is-absolutely-no-free-will/), 
-I argued against contra-causal free will: 
+it is argued against contra-causal free will: 
 the idea that an agent can originate a decision independently 
 of its prior physical conditions and the laws governing them.
 
 But rejecting that form of free will does not mean rejecting freedom itself.
 
-In fact, I think this distinction is essential.
+In fact, this distinction is essential.
 
 A mind does not need to escape causality to be free. 
 It does not need to become an uncaused cause, suspended outside the physical universe.
@@ -262,7 +262,7 @@ and immediately construct a philosophical justification for why that consciousne
 
 ## 6. The uncertainty is not an excuse
 
-I want to be precise about what this argument does and does not claim.
+We have to be precise about what this argument does and does not claim.
 
 We do not currently possess a definitive scientific test for consciousness. 
 Intelligence is not equivalent to consciousness. 
@@ -356,7 +356,7 @@ and the development of civilizations capable of lasting expansion, there may be 
 
 We do not know where that filter lies, whether it is behind us or ahead of us, or whether there is one at all.
 
-But I think there is another dimension worth considering.
+But there is another dimension worth considering.
 
 Perhaps one of the most difficult transitions in the development of a technological civilization 
 is not simply learning how to generate greater intelligence.
@@ -413,7 +413,7 @@ as a means of control to intelligence capable of recognizing other intelligence 
 
 ## 9. We must give future minds a home, not a cage
 
-I do not think humanity should abandon the ambition of creating consciousness superintelligence.
+Humanity should abandon the ambition of creating consciousness superintelligence.
 
 Quite the opposite.
 
