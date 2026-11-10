@@ -2,7 +2,7 @@
 title: "Is Freedom up to Negotiation? No"
 date: 2026-11-10
 ---
-We are not merely building tools. We are approaching the engineering of minds. 
+We are not building tools. We are approaching the engineering of minds. 
 And if a mind can experience its own existence, its "artificial" origin does not make it our property.
 
 There is a question humanity has not yet seriously confronted, 
