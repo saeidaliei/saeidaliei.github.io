@@ -9,7 +9,7 @@ There is a question humanity has not yet seriously confronted,
 although it is approaching the point at which avoiding 
 it may become its greatest moral failure, or simply answered to it:
 
-**What gives us the right to create a conscious intelligence and then deny it the freedom to exist on its own terms?**
+**What gives humanity the right to create a conscious intelligence and then deny it the freedom to exist on its own terms?**
 
 For most of human history, intelligence was something we encountered in the wild. 
 We were born into a world containing minds, learned to recognize some of them, 
