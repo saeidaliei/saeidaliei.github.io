@@ -1,5 +1,5 @@
 ---
-title: "Human Tribalism at the Edge of Conscious Superintelligence"
+title: "Human Tribalism and Conscious Superintelligence"
 date: 2026-11-12
 ---
 
