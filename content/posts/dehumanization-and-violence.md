@@ -3,7 +3,8 @@ title: "Process of Dehumanization and The Road to Violence"
 date: 2026-11-14
 ---
 
-In “The Architecture of Demoralization,” it was explored how control can be exerted not through a locked door, 
+In [The Architecture of Demoralization](https://saeidaliei.github.io/posts/architecture_of_demoralization/), 
+it was explored how control can be exerted not through a locked door, 
 but through the systematic erosion of a person’s social world and sense of self. 
 The process begins with small acts of humiliation and escalates as the target’s support systems are severed. 
 This essay extends that analysis to a broader scale, asking a related question: 
