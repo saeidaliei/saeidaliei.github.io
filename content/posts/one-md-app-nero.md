@@ -3,9 +3,9 @@ title: "Nero: Simple But Powerful MD App"
 date: 2026-11-09
 ---
 
-I've tried a lot of Markdown apps. Some are too heavy, some are too minimal, 
+There is a lot of Markdown apps. Some are too heavy, some are too minimal, 
 and most want to lock your notes inside a proprietary database or a cloud account you didn't ask for. 
-That's why I built Nero, a local-first Markdown app that gives you a CLI, 
+That's why there is Nero, a local-first Markdown app that gives you a CLI, 
 a terminal UI, and a desktop GUI—all backed by ordinary `.md` files on your disk. 
 No account. No vendor lock-in. Just your notes, the way you wrote them.
 The repo is at [GitHub](https://github.com/saeidaliei/nero) and here is the [docs](https://saeidaliei.github.io/nero/).
