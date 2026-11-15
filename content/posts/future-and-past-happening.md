@@ -1,5 +1,5 @@
 ---
-title: "The Future Has Already Happened and The Past is Going to Happen"
+title: "The Future Has Happened and The Past is Going to Happen"
 date: 2026-11-15
 ---
 
