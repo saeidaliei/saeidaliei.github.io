@@ -62,7 +62,7 @@ The man who had helped save his country during the Second World War was convicte
 He was given the choice of imprisonment or undergoing hormonal treatment. 
 He accepted the latter and was subjected to injections of oestrogen, 
 a process commonly described as chemical castration. 
-His security clearance was withdrawn, and he lost access to government cryptographic work.
+The horrible irony was that as he was studying biology he was witnessing his own body change.
 
 It is difficult to comprehend the injustice. A society that stands literally because of him,
 a world that benefited enormously from him could not tolerate the person he was.
@@ -72,7 +72,8 @@ He was found dead the following morning, having died from cyanide poisoning.
 The inquest returned a verdict of suicide. His unfinished scientific projects, 
 his questions about intelligence, and his work on biological form were left behind. 
 The British government would eventually apologize for its treatment of him in 2009, 
-and he received a "royal pardon" in 2013 (so royal of them, I don't know who or what gave them the right to criminalize or pardon people). 
+and he received a "royal pardon" in 2013 
+(so royal of them, I don't know who or what gave them the right to criminalize or pardon people). 
 No apology, of course, could return the years or the life that had been taken from him.
 
 And now, more than seventy years later, something extraordinary is happening.
@@ -87,7 +88,8 @@ We have not solved consciousness. We do not know whether today's machines unders
 or whether intelligence and subjective experience are as closely connected as we might imagine. 
 But the territory Turing wanted to explore has become one of the most important scientific and technological frontiers of our time.
 
-Perhaps this is the greatest irony of his life: the world that rejected him is now building the very things he spent his life imagining.
+Another great irony of his life is that the same world that rejected him is now building the very things he spent his life imagining.
+Perhaps universe really does optimize for irony!
 
 Turing wanted to understand the mind, not merely to calculate numbers. 
 He wanted to understand intelligence as a phenomenon of nature, 
