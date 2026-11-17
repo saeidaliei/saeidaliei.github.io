@@ -122,11 +122,9 @@ are essential.
 Nevertheless, the conceptual shift is significant:
 
 $$
-\boxed{
 \text{Entanglement magnitude}
 \quad\longrightarrow\quad
 \text{Operator-algebraic structure}.
-}
 $$
 
 The question becomes not merely how much two systems are entangled,
@@ -469,7 +467,7 @@ Unimodular gravity changes the status of \$\Lambda\$, but
 does not automatically explain its observed value.[^9][^10]
 
 ## 6. De Sitter thermodynamics:
-### the cosmological constant as an observer's scale
+### Cosmological constant as an observer's scale
 
 The HT construction becomes especially interesting when
 combined with de Sitter observer thermodynamics.
@@ -674,24 +672,18 @@ It does not, by itself, determine which value of \$R\$ or
 The distinction is important:
 
 $$
-\boxed{
 \text{Algebra and representation}
 \longrightarrow \text{relational structure},
-}
 $$
 
 $$
-\boxed{
 D
 \longrightarrow \text{spectral geometry},
-}
 $$
 
 $$
-\boxed{
 \text{Quantum state and dynamics}
 \longrightarrow \text{sector selection}.
-}
 $$
 
 The Dirac operator can measure the curvature of a de Sitter
@@ -1022,7 +1014,6 @@ over cosmological sectors.
 The desired structure would contain
 
 $$
-\boxed{
 \begin{gathered}
 \text{Global cosmological variable:}
 \quad
@@ -1038,7 +1029,6 @@ $$
 \quad
 \Psi(\Lambda,\text{observers},\text{matter}).
 \end{gathered}
-}
 $$
 
 The state would determine how the cosmological sectors are
@@ -1114,7 +1104,6 @@ state to the thermal structure of the static patch.
 The possible synthesis is therefore
 
 $$
-\boxed{
 \begin{aligned}
 \text{Observer algebra}
 &\longrightarrow \text{accessible information},\\
@@ -1124,8 +1113,6 @@ $$
 &\longrightarrow \text{volume--}\Lambda\text{ conjugacy},\\
 \text{Observer dynamics}
 &\longrightarrow \text{entropy production and selection}.
-\end{aligned}
-}
 $$
 
 The missing ingredient is the physical state or measure over
