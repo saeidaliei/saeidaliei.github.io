@@ -272,8 +272,8 @@ $$
 where \$N(\lambda)>0\$ is a central normalization factor.
 
 Changing this factor changes absolute entropy. If a state has
- density \(h\) relative to the original trace, then its density
-relative to the rescaled trace is \(h/N\). Consequently,
+ density \$h\$ relative to the original trace, then its density
+relative to the rescaled trace is \$h/N\$. Consequently,
 
 $$
 S_{\tau_N}(\omega) =
@@ -628,7 +628,7 @@ $$
 \lambda_{\min}=\frac{2}{R}.
 $$
 
-Since \(R^2=3/\Lambda\),
+Since \$R^2=3/\Lambda\$,
 
 $$
 \boxed{\Lambda=\frac{3}{4}\lambda_{\min}^2.}
@@ -646,7 +646,7 @@ S_{\mathrm{spec}}[D] =
 f\left(\frac{D}{\Lambda_{\mathrm{cut}}}\right),
 $$
 
-where \(\Lambda_{\mathrm{cut}}\) is a spectral cutoff,
+where \$\Lambda_{\mathrm{cut}}\$ is a spectral cutoff,
 not the cosmological constant.
 In four dimensions its heat-kernel expansion contains terms
 of the form
@@ -976,7 +976,7 @@ We have not shown that:
 
 - The HT measure is normalizable over positive
   cosmological constants.
-- The observer algebra fixes a prior over \(\Lambda\).
+- The observer algebra fixes a prior over \$\Lambda\$.
 - The horizon-corner orbit selects a preferred value.
 - Relative modular consistency determines cross-sector
   normalization.
