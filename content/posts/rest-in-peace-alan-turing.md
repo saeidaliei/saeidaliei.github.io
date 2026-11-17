@@ -8,7 +8,7 @@ We remember him as the father of computer science, the mathematician who helped 
 and the man whose ideas laid the foundations of artificial intelligence. 
 But the most interesting thing about Turing was not what he built, but what he was trying to understand.
 
-He was, at heart, fascinated by the mind.
+He was, at heart, fascinated by the mind, and everything he did in a sense was towards understanding it.
 
 Turing became preoccupied with the relationship between mind and matter: 
 What is a mind? How does it emerge from physical matter? What happens to it when the body dies? 
