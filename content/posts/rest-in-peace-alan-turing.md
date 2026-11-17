@@ -35,7 +35,7 @@ After the war, he wanted to build such a machine, but his ambitions went conside
 He wanted to understand whether machinery could learn, develop, and eventually exhibit the capacities we associate with intelligence
 . He even spoke of *building a brain*.
 
-In the late 1940s, Turing explored neurology, physiology, and what we would now recognise as neural networks. 
+In the late 1940s, Turing explored neurology, physiology, and what we would now recognize as neural networks. 
 In 1950, he published *Computing Machinery and Intelligence*, 
 asking the question that would define the field of artificial intelligence: Can machines think?
 
@@ -57,21 +57,21 @@ In a sense, Manchester became the place where his different intellectual obsessi
 
 And then there was the cruelty.
 
-In 1952, Turing was prosecuted for homosexuality, which was criminalised in Britain at the time. 
+In 1952, Turing was prosecuted for homosexuality, which was criminalized in Britain at the time. 
 The man who had helped save his country during the Second World War was convicted by that same country. 
 He was given the choice of imprisonment or undergoing hormonal treatment. 
 He accepted the latter and was subjected to injections of oestrogen, 
 a process commonly described as chemical castration. 
 His security clearance was withdrawn, and he lost access to government cryptographic work.
 
-It is difficult to comprehend the injustice. A society, a world, that benefited enormously 
-from his intellect could not tolerate the person he was.
+It is difficult to comprehend the injustice. A society that stands literally because of him,
+a world that benefited enormously from him could not tolerate the person he was.
 
 On 7 June 1954, at just 41 years old, Turing died at his home in Wilmslow, Cheshire. 
 He was found dead the following morning, having died from cyanide poisoning. 
 The inquest returned a verdict of suicide. His unfinished scientific projects, 
 his questions about intelligence, and his work on biological form were left behind. 
-The British government would eventually apologise for its treatment of him in 2009, 
+The British government would eventually apologize for its treatment of him in 2009, 
 and he received a "royal pardon" in 2013 (so royal of them, I don't know who or what gave them the right to criminalize or pardon people). 
 No apology, of course, could return the years or the life that had been taken from him.
 
@@ -79,7 +79,7 @@ And now, more than seventy years later, something extraordinary is happening.
 
 The question Turing asked in 1950 is no longer a philosophical curiosity. 
 Artificial intelligence is becoming a practical reality. 
-Machines can learn from data, generate language, solve problems, recognise patterns, 
+Machines can learn from data, generate language, solve problems, recognize patterns, 
 and perform increasingly sophisticated intellectual tasks, and one day even become conscious if not already.
 Neural networks, which he explored long before they became central to computer science, are now at the heart of this transformation.
 
@@ -91,7 +91,7 @@ Perhaps this is the greatest irony of his life: the world that rejected him is n
 
 Turing wanted to understand the mind, not merely to calculate numbers. 
 He wanted to understand intelligence as a phenomenon of nature, 
-and whether its underlying principles could be realised in something other than biological tissue.
+and whether its underlying principles could be realized in something other than biological tissue.
 
 We are still pursuing that dream and we're very close.
 
