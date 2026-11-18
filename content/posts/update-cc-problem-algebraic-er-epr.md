@@ -334,17 +334,6 @@ Open problems, in order of tractability:
 3. Carry out the 2D laboratory computation with an observer, with the sign conventions checked.
 4. Formulate the entropy-budget condition algebraically and test whether it constrains the sector weights.
 
-## Notes on the numerical checks
-
-All numerics here support specific claims and are not proofs. 
-Finite-dimensional rank decisions used a threshold of \$10^{-8}\$ against gaps of order one; 
-Monte Carlo values are quoted with standard errors; floating-point noise appears at \$10^{-15}\$ 
-to \$10^{-16}\$ and was never interpreted as signal. 
-Two earlier numerical runs failed and were fixed before use 
-(an overflow in the exponential-Gaussian density at small noise, 
-and a quadrature failure in the growth factor at extreme \$\lambda\$ that produced a collapsed fraction above one), 
-and an assertion that the collapsed fraction stays in \$[0,1]\$ was added. 
-
 ## References
 
 [^1]: S. Aliei, "CC Problem and ER=EPR in dS", blog post (November 2026), <https://saeidaliei.github.io/posts/cosmological-constant-problem-algebraic-er-epr-ds/>.
