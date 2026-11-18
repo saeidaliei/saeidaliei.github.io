@@ -91,4 +91,4 @@ For most of us, that is a philosophical curiosity. For the Everetts,
 it was a family tragedy—a tragedy written in the language of quantum and suffering, 
 sealed with a suicide note that asked the universe to do what a father could not.
 
-May his and her daughter's suffering be the meaning that they could not find.
+May his and his daughter's suffering be the meaning that they could not find.
