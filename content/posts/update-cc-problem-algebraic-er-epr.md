@@ -100,8 +100,7 @@ In de Sitter \$\beta=2\pi R=2\pi\sqrt{3/\Lambda}\$, so \$Z_i\$ depends on \$\Lam
 
 Convention (a) is not canonical (the KMS temperature differs between sectors), but it is the naive choice. 
 Convention (c) reproduces the Baum–Hawking-type weight [^8][^9]. 
-With approximate constants (\$\Lambda\approx1.1\times10^{-52}\,\mathrm{m^{-2}}\$, 
-which we are recalling and have not rechecked) one finds in Planck units \$R\approx1.0\times10^{61}\$ 
+With approximate constants \$\Lambda\approx1.1\times10^{-52}\,\mathrm{m^{-2}}\$, one finds in Planck units \$R\approx1.0\times10^{61}\$ 
 and \$S_{\rm dS}\approx3.3\times10^{122}\$. For a proton-mass clock \$\beta m\approx5\times10^{42}\$, 
 and for a 70 kg observer \$\beta m\approx2\times10^{71}\$. 
 Halving \$R\$ changes the log-weight by about \$+2.5\times10^{42}\$ 
