@@ -277,8 +277,8 @@ kind of causation exercised by agents, can supply genuine authorship. The
 standard worry is the one from the start of this post: it is unclear how an
 undetermined event can be more controlled, and agent causation seems to posit a
 causal power with no physical account. The third is the **experiments**, which,
-as noted, are contested, though nothing above depends on them. The last is **my
-own model**. The NCG framework is a conjecture, and the step that matters here,
+as noted, are contested, though nothing above depends on them. The last is our
+own model. The NCG framework is a conjecture, and the step that matters here,
 that self-reference yields a structural gap between self-model and system, would
 need to be tested and could fail. If it does, the feeling of freedom still needs
 some other explanation, but the argument of the first sections does not depend
