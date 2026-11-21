@@ -1,7 +1,5 @@
 ---
-title: >-
-  When Survival Becomes a Way of Life:
-  Childhood Adversity, Complex Trauma, and The Long Work of Recovery
+title: "When Survival Becomes a Way of Life: Childhood Adversity and Complex Trauma"
 date: 2026-10-23
 ---
 
