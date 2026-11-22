@@ -3,12 +3,8 @@ title: "Robert Sapolsky’s Human Behavioral Biology"
 date: 2026-10-24
 ---
 
-Some lectures become familiar enough to turn into a soundtrack for sleep. 
-Robert Sapolsky’s excellent Stanford course on *Human Behavioral Biology* has accompanied countless nights of mine, 
+Robert Sapolsky’s excellent Stanford course on *Human Behavioral Biology* is  
 on par with Sidney Coleman's Harvard *Qunatum Field Theory* lectures.
-Few courses reward repetition so well.
-
-The central idea is deceptively simple: human behavior has no single cause.
 
 We like explanations that stop somewhere. A person behaves aggressively because of their hormones, 
 their upbringing, their genes, or the culture they grew up in. Each explanation may contain something true, 
@@ -43,6 +39,3 @@ Their enduring value lies in the method: connect the levels,
 follow the causal chain, and be suspicious of explanations that are too comfortable.
 
 The entire course is available for free on [YouTube](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D).
-
-I keep returning to it. Perhaps the most revealing thing about a good explanation is that, 
-even after you know where it is going, you still find something worth following.
