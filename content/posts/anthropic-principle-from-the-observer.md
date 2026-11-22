@@ -1,5 +1,5 @@
 ---
-title: "Can Anthropic Principle be Derived from the Observer?"
+title: "Can Anthropic Principle be Derived From The Observer?"
 date: 2026-11-22
 ---
 
