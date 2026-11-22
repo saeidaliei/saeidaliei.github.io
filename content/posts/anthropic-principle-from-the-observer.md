@@ -328,16 +328,14 @@ the gate (who counts), not the distribution.
 What I think survives:
 
 1. **Conditioning** is plausibly not an added postulate in de Sitter space,
-   because the theory has no observables without an observer *(literature plus
-   conjecture)*.
-2. **The measure** has a natural candidate in the trace *(conjecture,
-   unverified)*.
+   because the theory has no observables without an observer *(C)*.
+2. **The measure** has a natural candidate in the trace *(C)*.
 3. **The reference class** can be tightened structurally, and a lineage
-   requirement may exclude Boltzmann fluctuations *(conjecture, untested)*.
+   requirement may exclude Boltzmann fluctuations *(C)*.
 4. **The value of \$\Lambda\$** is not selected. The upper edge comes from
    structure formation, the lower edge from the prior, and a detectability
    postulate that supplies a lower edge works only for short-lived observers and
-   with a threshold the framework does not fix *(checked)*.
+   with a threshold the framework does not fix.
 
 The weakest steps, in the order I trust them least:
 
