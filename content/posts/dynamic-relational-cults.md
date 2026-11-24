@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Relational Cults: Weaponized Sexual Triangulation and When Attachment Becomes a Point of Torture, Coercion and Humiliation"
+title: "Dynamic Relational Cults"
 date: 2026-11-23
 ---
 
